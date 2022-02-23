@@ -1,0 +1,2119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of divine instructions in point of reformation discovered in a sermon preached before the Right Honorable, the Lord Mayor, the Right Worshipful, the sheriffs and aldermen, with other worthy citizens of the city of London, at a solemn anniversary meeting, April 4, 1648 / by John Cardell.</title>
+            <author>Cardell, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 106 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33664</idno>
+            <idno type="STC">Wing C495</idno>
+            <idno type="STC">ESTC R6860</idno>
+            <idno type="EEBO-CITATION">11894605</idno>
+            <idno type="OCLC">ocm 11894605</idno>
+            <idno type="VID">50544</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50544)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 18:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of divine instructions in point of reformation discovered in a sermon preached before the Right Honorable, the Lord Mayor, the Right Worshipful, the sheriffs and aldermen, with other worthy citizens of the city of London, at a solemn anniversary meeting, April 4, 1648 / by John Cardell.</title>
+                  <author>Cardell, John.</author>
+               </titleStmt>
+               <extent>[8], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Henry Overton, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"April 13. 1648. Imprimatur Joseph Caryl"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50544:1"/>
+            <pb facs="tcp:50544:1"/>
+            <p>THE NECESSITY OF Divine Inſtructions In point of REFORMATION; Diſcovered in A Sermon Preached before the Right Honorable, The <hi>LORD MAYOR,</hi> The Right Worſhipful, The Sheriffs and Aldermen, with other worthy Citizens of the City of <hi>London,</hi> at a Solemn Anniverſary Meeting, <hi>April</hi> 4. 1648. By <hi>John Cardell.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ISA. 54.11, 12, 13.</hi>
+               </bibl>
+               <p>O thou afflicted, toſſed with tempeſt, and not comforted, behold, I will lay thy ſtones with fair colours, and lay thy foundations with Saphires.</p>
+               <p>And I will make thy windows of Agates, and thy gates of Carbuncles, and all thy borders of pleaſant ſtones.</p>
+               <p>And all thy children ſhall be taught of the Lord, and great ſhall be the peace of thy children.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <opener>
+                        <date>
+                           <hi>April</hi> 13. 1648.</date>
+                     </opener>
+                     <p>
+                        <hi>Imprimatur</hi>
+                     </p>
+                     <closer>
+                        <signed>Joſeph Caryl.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed by <hi>John Field</hi> for <hi>Henry Overton,</hi> and are to be ſold at his ſhop at the entring into Popes-head-Alley, out of Lumbardſtreet. 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50544:2"/>
+            <pb facs="tcp:50544:2"/>
+            <head>To the Right Honorable, the LORD MAYOR AND Court of Aldermen OF <hi>ENGLANDS METROPOLIS</hi> THE Famous City of <hi>London.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He</hi> Service <hi>that I was lately</hi> called to, <hi>by your</hi> Honorable <hi>Appointment, was</hi> a Spi<g ref="char:EOLhyphen"/>ritual Service, <hi>and the</hi> Theam <hi>or</hi> Argu<g ref="char:EOLhyphen"/>ment <hi>that my</hi> Meditations <hi>were</hi> ingaged <hi>and</hi> carried <hi>out upon, was of</hi> a Spiritual nature, <hi>far above the</hi> reach <hi>of thoſe that live</hi> meerly <hi>by</hi> Senſe <hi>and</hi> Carnal Reaſon,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Hom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> animalis, cui anima proſale. non alia quam naturali animi luce pr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>itus,</hi> Bez <hi>Non Reg<g ref="char:EOLhyphen"/>nitue per ſpiri tum ſanctum.</hi> Piſc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>and that</hi> ſavor not the things of God: The natural man, <hi>ſays the Apoſtle,</hi> receiveth not the things of the Spirit of God, for they are fooliſhneſs unto him: neither can he know them, becauſe they are ſpiritually diſcerned, 1 <hi>Cor.</hi> 2.14.</p>
+            <p>My deſire was, <hi>to ſuggest</hi> ſomething <hi>from</hi> the Word of Truth, <hi>in ſo great a</hi> Preſence, <hi>that might</hi> advance <hi>the</hi> Work of Reformation, <hi>which is ſo
+<pb facs="tcp:50544:3"/>much</hi> ſpoken <hi>and</hi> talked of <hi>amongst us, and</hi> where<g ref="char:EOLhyphen"/>unto <hi>we are,</hi> above all other People in the World, <hi>ſo many ways</hi> ingaged.</p>
+            <p>
+               <hi>But</hi> ſurely <hi>our</hi> miſery <hi>even in</hi> this reſpect <hi>(aſwel as in ſome other) is many times</hi> great upon us,
+<note place="margin">Viv<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>That whileſt we onely</hi> pretend <hi>to a</hi> right end, <hi>we wofully</hi> miſcarry <hi>about</hi> the means, <hi>that ſhould</hi> bring us <hi>to</hi> that end: <hi>My endeavor therefore was,</hi> To rectifie this great Error, <hi>and to lay</hi> ſomething <hi>at the</hi> bottom, <hi>which might</hi> ſuſtain <hi>the</hi> Building <hi>of a</hi> Scripture-Reformation, <hi>viZ.</hi> Jeſus Chriſt by his Word and Spirit: <hi>This is</hi> doubtleſs <hi>ſo <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re a</hi> Foundation, <hi>that a</hi> better cannot, <hi>and</hi> an<g ref="char:EOLhyphen"/>other ought not <hi>to be</hi> laid or thought upon; Other foundation can no man lay, then that is laid, which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jeſus Chriſt, <hi>ſays the Apoſtle: The</hi> Prophet <hi>calls him,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nn.</note> A precious corner-ſtone, A ſure foundation, <hi>Iſa.</hi> 28.16. <hi>And</hi> whileſt <hi>men</hi> go about <hi>to erect</hi> Buildings <hi>of</hi> Reformation, <hi>or</hi> Buildings <hi>of</hi> Salva<g ref="char:EOLhyphen"/>tion, <hi>or of</hi> any thing <hi>that tends</hi> thereto, <hi>upon other</hi> Foundations, <hi>they do but as the</hi> Diſciples, <hi>when they</hi> fiſhed all night, <hi>and</hi> caught nothing, <hi>they do but</hi> buſie,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>and</hi> weary themſelves <hi>to no</hi> purpoſe, <hi>and in</hi> concluſion <hi>utterly</hi> loſe their labour; <hi>yea, they many times both</hi> ſow the wind,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>and</hi> reap the whirlwind, <hi>as the Prophet ſpeaks.</hi>
+            </p>
+            <p>
+               <hi>Now to</hi> eſtabliſh us <hi>upon this</hi> ſure Foundation, <hi>in point of</hi> Reformation, <hi>was the</hi> ſcope <hi>and</hi> drift <hi>of the</hi> enſuing Sermon, <hi>That we might not</hi> meerly hearken <hi>unto, or</hi> carnally reſt <hi>upon that, which men</hi> hold forth <hi>unto us,</hi> about that great Work, <hi>but conſult the</hi> minde of Chriſt <hi>therein,</hi> from his Word
+<pb facs="tcp:50544:3"/>
+               <hi>faithfully</hi> interpreted <hi>and</hi> opened <hi>unto us</hi> by that Spirit, <hi>which at the firſt</hi> gave us the Word,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 Tim. 3.16. <hi>Scripture cúm ſint à Spiritu Dei, non poſſunt intelligi ſine Spiritu Dei.</hi> Zanch. de ſacr. Script.</note> 
+               <hi>and that muſt</hi> ſtill give us the true ſenſe and meaning of it.</p>
+            <p>
+               <hi>Not that I would</hi> altogether exclude men <hi>neither, from having</hi> any hand <hi>in this</hi> buſineſs, <hi>any farther then</hi> God himſelf excludes them: <hi>I knew that in all</hi> Times <hi>and</hi> Ages, <hi>God hath been</hi> pleaſed <hi>to</hi> ſelect <hi>and</hi> chuſe out <hi>men</hi> (Magiſtrates and others) <hi>and to</hi> qualifie <hi>them</hi> accordingly, <hi>for the</hi> helping on <hi>of this</hi> great Work; <hi>not that he</hi> ſtands <hi>in any</hi> abſolute need <hi>of</hi> Men, <hi>or</hi> Means, <hi>or</hi> Inſtruments, <hi>onely to</hi> teſtifie <hi>his</hi> love <hi>and</hi> honorable reſpects <hi>unto ſome, he hath been always</hi> pleaſed <hi>to</hi> take <hi>them in, and to put that</hi> glorious Title <hi>upon them,</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 Cor. 6.1.</note> 
+               <hi>of being</hi> co-workers <hi>with him</hi> in this weighty buſineſs, <hi>though they can do</hi> no more <hi>then what</hi> in his ſtrength, <hi>and</hi> in the power of his might,
+<note place="margin">Epheſ. 6.10.</note> 
+               <hi>they are</hi> continually <hi>inabled to</hi> perform.</p>
+            <p>
+               <hi>And among other</hi> Engines <hi>or</hi> Inſtruments <hi>of</hi> great worth, <hi>The</hi> Preaching of the Goſpel (<hi>by men</hi> right<g ref="char:EOLhyphen"/>ly qualified for, <hi>and</hi> duly called unto, <hi>that great</hi> Work) <hi>muſt and will</hi> certainly <hi>have a very</hi> great ſtroke <hi>in this</hi> buſineſs, <hi>which,</hi> accompanied <hi>with the</hi> Spirit, <hi>is</hi> The Rod of Chriſts ſtrength,
+<note place="margin">Pſal. 110.2.</note> 
+               <hi>or</hi> The Scepter of his Kingdom; <hi>that whereby he</hi> teaches, <hi>and</hi> governs <hi>his People,</hi> Caſting down imagina<g ref="char:EOLhyphen"/>tions, and pulling down ſtrong holds,
+<note place="margin">2 Cor. 104, 5.</note> and capti<g ref="char:EOLhyphen"/>vating every thought to the Obedience of himſelf, <hi>by theſe</hi> weapons <hi>that are not</hi> carnal. <hi>And therefore certainly</hi> the Civil Magiſtrate <hi>cannot</hi> honor Chriſt <hi>more, or do</hi> Him <hi>better ſervice, who is</hi> King of kings,
+<note place="margin">1 Tim. 6.15.</note> 
+               <hi>and</hi> Lord of lords, <hi>then by</hi> ſupporting <hi>ſuch a</hi> Mi<g ref="char:EOLhyphen"/>niſtery,
+<pb facs="tcp:50544:4"/>
+               <hi>which is</hi> Experimentally <hi>found, and</hi> known <hi>to be</hi> vehiculum Spiritus, <hi>the</hi> Chariot, <hi>as it were, of that</hi> Spirit, <hi>which hath</hi> always <hi>made</hi> a world of Be<g ref="char:EOLhyphen"/>lievers <hi>to come</hi> flocking <hi>to</hi> Chriſt, <hi>and</hi> flying apace <hi>unto him,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> like ſo many Doves to their windows.</p>
+            <p>Now as to this, <hi>the Honorable</hi> Houſes of Par<g ref="char:EOLhyphen"/>liament <hi>have lately</hi> Declared <hi>themſelves</hi> very fully, <hi>to the</hi> Satisfaction, <hi>I am</hi> perſwaded, <hi>of all</hi> unbyaſſed <hi>and</hi> well-affected People <hi>throughout</hi> the Kingdom; <hi>and that</hi> in theſe words, <hi>among the reſt to that purpoſe,</hi> Mens conſciences <hi>(ſay they)</hi> muſt be mol<g ref="char:EOLhyphen"/>lified and prepared by the powerful Prea<g ref="char:EOLhyphen"/>ching of the Word,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation of the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, concerning the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apers of the Scor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Com<g ref="char:EOLhyphen"/>miſtioners, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> before they will be capable Subjects of Eccleſiaſtical Diſci<g ref="char:EOLhyphen"/>pline; and till then, there is no other means to reſtrain them from vice and im<g ref="char:EOLhyphen"/>piety, but by the Power of the Magiſtrate armed with wholeſom Laws to that pur<g ref="char:EOLhyphen"/>poſe, and by the powerful Preaching of the Word, which is our hearty deſire and endeavor to advance throughout the Kingdom.</p>
+            <p>
+               <hi>Which Noble</hi> Reſolution <hi>of theirs,</hi> ſeconded <hi>and</hi> purſued <hi>by the</hi> Power <hi>and</hi> Authority <hi>of this</hi> great City, <hi>what a world of good</hi> might it do <hi>in a</hi> ſhort time? <hi>How</hi> mightily, <hi>in all</hi> likelihood, <hi>would</hi> the Sun of Righteouſneſs <hi>caſt forth his</hi> beams <hi>even all</hi> the Kingdom over, <hi>if</hi> LONDON <hi>were but</hi> quietly <hi>and</hi> thankfully poſſeſſed <hi>of this moſt</hi> ſavory mercy? <hi>And</hi> truly <hi>I<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyce very much, <hi>That in</hi> taking <hi>up<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:50544:4"/>me the</hi> boldneſs <hi>to be herein your</hi> humble <hi>and</hi> faithful <hi>Movitor,</hi>
+               <note place="margin">Qui monei ut<g ref="char:EOLhyphen"/>facias, quod jam facis, ipſe mo<g ref="char:EOLhyphen"/>nendo laudat, &amp; hortatu fortius ire juvat.</note> 
+               <hi>that I do but onely</hi> intreat <hi>the</hi> pur<g ref="char:EOLhyphen"/>ſuance <hi>of</hi> that <hi>which</hi> ye <hi>are</hi> already doing: <hi>For where hath the</hi> powerful Preaching of the Goſpel <hi>always hitherto had</hi> more incouragement, <hi>then from this</hi> Famous City?</p>
+            <p>
+               <hi>I will not here be</hi> too buſie, <hi>or</hi> too bold, <hi>in</hi> pre<g ref="char:EOLhyphen"/>ſcribing <hi>or giving</hi> Information <hi>to you about that</hi> Miniſtery <hi>which ye ought to</hi> favor, ſupport <hi>and</hi> coun<g ref="char:EOLhyphen"/>tenance <hi>by your</hi> Civil Power; <hi>As that</hi>
+               <note n="*" place="margin">D. <hi>Stoughton</hi> B. Light. pag. 23.</note> rare man <hi>ſaid in a</hi> Sermon <hi>of his to</hi> Miniſters, <hi>I am not of</hi> mettal good enough <hi>for that,</hi> The ſnuffers of the Temple ſhould be of pure Gold.</p>
+            <p>
+               <hi>Onely thus much</hi> give <hi>me</hi> leave <hi>to ſay in the</hi> gene<g ref="char:EOLhyphen"/>ral, <hi>That</hi> certainly <hi>ſuch as deal with the</hi> Under<g ref="char:EOLhyphen"/>ſtandings of men, <hi>had need to be</hi> men of Under<g ref="char:EOLhyphen"/>ſtanding; <hi>They that</hi> take <hi>upon them</hi> to teach and inform others, <hi>had need</hi> to be well taught and in<g ref="char:EOLhyphen"/>formed themſelves; <hi>They that make it their</hi> work, <hi>and their</hi> imployment to ſeaſon others, <hi>had need</hi> to be well ſeaſoned themſelves: <hi>otherwiſe,</hi> If the ſalt have loſt his ſavor,
+<note place="margin">Matth. 5.13. compared with Luke 14.34.</note> wherewith ſhall it be ſea<g ref="char:EOLhyphen"/>ſoned? it is thenceforth good for nothing, but to be caſt out, and to be trodden under foot of men.</p>
+            <p>
+               <hi>But I muſt</hi> remember <hi>to whom</hi> I ſpeak,
+<note place="margin">
+                  <hi>Verbum ſapicu<g ref="char:EOLhyphen"/>tibus.</hi> 1 Cor. 10.15. Ioh. 10.3, 4, 5.</note> 
+               <hi>even</hi> to wiſe men, <hi>that are</hi> able <hi>to</hi> judge <hi>of</hi> what I ſay, <hi>and to</hi> diſcern the voyce of Chriſt, <hi>from the</hi> voyce <hi>of a</hi> Stranger: <hi>And</hi> bleſſed be God <hi>for it, that of</hi> late <hi>you have</hi> known <hi>no man,</hi> laboring amongſt us in the Word and Doctrine, <hi>By this</hi> Name, <hi>or By that</hi> Name, <hi>but</hi> on both ſides, <hi>ſuch as</hi> by long expe<g ref="char:EOLhyphen"/>rience <hi>you have found</hi> Able, <hi>and</hi> Orthodox, <hi>and</hi> Pious, <hi>and</hi> Peaceable, <hi>they have been</hi> equally im<g ref="char:EOLhyphen"/>ployed
+<pb facs="tcp:50544:5"/>
+               <hi>and</hi> incouraged <hi>by you; which hath</hi> ſome<g ref="char:EOLhyphen"/>what <hi>revived our</hi> languiſhing hopes, <hi>that there may yet be a</hi> ſodering <hi>and a</hi> combining <hi>amongst thoſe that are</hi> really well affected (<hi>and not in</hi> appearance <hi>onely) through your</hi> exemplary Care <hi>and</hi> Wiſdom <hi>herein; And that in due time</hi> Breaches <hi>ſhall be ſo far</hi> heal<g ref="char:EOLhyphen"/>ed,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2.4.</note> 
+               <hi>that</hi> Swords may be beat into Plow-ſhares, and Spears into Pruning-hooks; and that we ſhall have no occaſion to learn War any more, <hi>if God hath not a</hi> purpoſe (<hi>for the</hi> Iniquities <hi>thereof) utterly to</hi> ruine <hi>the</hi> Nation;
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> militem <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> terribilis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucit ad bel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. oves ad pa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulccdo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Bellanai <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hrvſol. in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Serm.</note> 
+               <hi>That as the</hi> terrible Trumpet <hi>of</hi> War <hi>hath</hi> lately <hi>called forth the</hi> Soldier into the Field, <hi>ſo that now at the</hi> length (<hi>after a</hi> few <hi>other</hi> Storms <hi>blown over) the</hi> ſweet Jubile-Trumpet of the Goſpel <hi>ſhall</hi> gather <hi>the</hi> Sheep <hi>of</hi> Chriſt toge<g ref="char:EOLhyphen"/>ther, <hi>and</hi> make them lye down in green paſtures, and lead them forth beſide the ſtill waters.</p>
+            <p>
+               <hi>That</hi> God <hi>would herein</hi> bleſs <hi>your</hi> Endeavors, (Right Honorable and Right Worſhipful) <hi>and bring the</hi> Bleſſing <hi>of</hi> Peacemakers <hi>upon you, and make you</hi> famous <hi>all the</hi> Kingdom <hi>over, and</hi> ſingu<g ref="char:EOLhyphen"/>larly inſtrumental <hi>in this</hi> great Work, <hi>is the</hi> hearty Deſire, <hi>and</hi> earneſt Prayer <hi>of</hi>
+            </p>
+            <closer>
+               <signed>Your Servant in the Lords Work, <hi>John Cardell.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:50544:5"/>
+            <head>The Neceſsity of Divine Inſtructions In Point of REFORMATION.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 34.31, 32.</hi>
+                  </bibl>
+                  <p>
+                     <hi>31.</hi> Surely, it is meet to be ſaid unto God, I have born chaſtiſement, I will not offend any more.</p>
+                  <p>
+                     <hi>32.</hi> That which I ſee not, teach thou me; if I have done iniquity, I will do no more.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words are a part of <hi>Elihu's</hi> Speech to <hi>Iob,</hi>
+               <note place="margin">The words a part of <hi>Elihu's</hi> Speech to <hi>Job.</hi>
+               </note> after his other three <hi>Friends,</hi> that were <hi>elder</hi> then he, had <hi>ended</hi> their <hi>Diſ<g ref="char:EOLhyphen"/>courſes</hi> with him: <hi>Becauſe he was yong,</hi> he was therefore <hi>willing</hi> to tarry till <hi>graver</hi> men had <hi>spoken,</hi> and then to ſhew
+<pb n="2" facs="tcp:50544:6"/>
+               <hi>his opinion</hi> alſo;
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> which by the way may teach us, <hi>That Piety is no enemy to Ingenuity,</hi> or ſweetneſs of Diſpoſition.</p>
+            <p>In the 32.
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6. c. 1.</note> 
+               <hi>Chapter</hi> of this <hi>Book,</hi> from the 6. <hi>ver.</hi> and ſo on, <hi>Elihu the ſon of Barachel the Buzite anſwered and ſaid, I am yong, and ye are very old, wherefore I was afraid, and durſt not ſhew mine opinion: I ſaid days ſhould speak, and multitude of years ſhould teach wiſdom.</hi>
+            </p>
+            <p>But yet to ſhew that God is not tyed to days and years,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not tyed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> days and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> ſays he at the 8. <hi>v. There is a spirit in man; and the inspiration of the Al<g ref="char:EOLhyphen"/>mighty giveth them underſtanding: Great men are not always wiſe; neither do the aged under<g ref="char:EOLhyphen"/>ſtand judgement:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> And what it was that even <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>Therefore</hi> I <hi>ſaid, Hearken to me; I alſo will ſhew mine opinion.</hi> For ſays he at the 18. <hi>v. I am full of matter, the spirit within me conſtraineth me: Behold, my belly is as wine, which hath no vent, it is ready to burſt like new bottles: I will speak, that</hi> I <hi>may be refreſhed;</hi> I <hi>will open my lips and anſwer.</hi> This is the <hi>Pre<g ref="char:EOLhyphen"/>face</hi> that he makes unto what he had to ſay.</p>
+            <p>To carry you through all the <hi>ſeveral</hi> particulars of <hi>Elihues</hi> dealing with JOB, <hi>(though but with a brief Paraphraſe)</hi> would tender my <hi>Porch</hi> too big, my <hi>Preface</hi> too tedious.</p>
+            <pb n="3" facs="tcp:50544:6"/>
+            <p>I ſhall therefore <hi>confine</hi> my ſelf to this <hi>Chapter,</hi> whereof the <hi>Text is part;</hi> and that I may be <hi>brief</hi> in ſurveying the <hi>whole Cha<g ref="char:EOLhyphen"/>pter,</hi> and come <hi>quickly</hi> to the words, you may pleaſe to <hi>obſerve,</hi>
+               <note place="margin">The main p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t of <hi>Elihu</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 34 Chapter, to juſtifie God in all his deal<g ref="char:EOLhyphen"/>ings with men</note> That <hi>the main plot of Elihu,</hi> or the thing that he <hi>chiefly ayms</hi> at here in this <hi>Chapter,</hi> it is <hi>to juſtifie God</hi> in all his proceedings with men.</p>
+            <p>At the 10. and 11. verſes, ſays he there,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">Generally propounded ver. 10.11.</note> 
+               <hi>Hearken to me, ye men of underſtanding: far be it from God, that he ſhould do wickedneſs, and from the Almighty, that he ſhould commit iniquity: For the work of a man ſhall he render unto him, and cauſe every man to finde according to his works.</hi>
+            </p>
+            <p>This he lays down in the <hi>general,</hi>
+               <note place="margin">Illuſtrated by ſeveral paſſages in the follow<g ref="char:EOLhyphen"/>ing parts of the Chapter.</note> and this he does <hi>illuſtrate</hi> or make good by ſe<g ref="char:EOLhyphen"/>veral <hi>paſſages</hi> in the <hi>following parts</hi> of the Chapter.</p>
+            <p>And here about the <hi>Text</hi> he gives <hi>inſtance</hi> in ſeveral <hi>changes</hi> that <hi>God makes</hi> upon <hi>migh<g ref="char:EOLhyphen"/>ty men,</hi> and upon <hi>Nations;</hi>
+               <note place="margin">Changes upon mighty men, ver. 24.</note> 
+               <hi>He ſhall break in pieces mighty men without number, and ſet others in their ſtead,</hi> at the 24. <hi>v.</hi>
+               <note place="margin">The Reaſon why, ver 28.</note> And in the fol<g ref="char:EOLhyphen"/>lowing <hi>verſes</hi> he tells you <hi>why,</hi> eſpecially at the 28. <hi>v.</hi> in <hi>that they cauſe the cry of the
+<pb n="4" facs="tcp:50544:7"/>poor to come unto him, and he heareth the cry of the afflicted:</hi> Pray mark that Expreſsion, <hi>He heareth the cry of the afflicted,</hi> ſays <hi>Elihu.</hi>
+            </p>
+            <p>There be three <hi>Cryes</hi> that God is ſaid in a <hi>special</hi> maner to hear:
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cryes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God hears</note>
+            </p>
+            <p>
+               <hi>The cry of Prayer.</hi>
+            </p>
+            <p>
+               <hi>The cry of Blood.</hi> And</p>
+            <p>
+               <hi>The cry of the Oppreſſed.</hi>
+            </p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>The cry of Prayer:</hi> Shall not God avenge his own Elect,
+<note place="margin">The Cry o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prayer</note> which <hi>cry</hi> day and night unto him? I tell you, ſays our Sa<g ref="char:EOLhyphen"/>vior, he will avenge them <hi>ſpeedily,</hi> when once they begin to <hi>cry</hi> unto him, <hi>Luk.</hi> 18.7, 8. That's one <hi>cry</hi> that God hears, <hi>The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry of Prayer.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> He hears <hi>the cry of Blood</hi> like<g ref="char:EOLhyphen"/>wiſe:
+<note place="margin">The Cry of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ood</note> The <hi>cry</hi> of his <hi>Sons</hi> Blood, and the <hi>cry</hi> of his <hi>Saints</hi> Blood; <hi>The voyce of thy brothers blood cryes unto me from the ground,</hi> ſays God to <hi>Cain:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.10</note> And this is ſuch a loud <hi>cry</hi> (the <hi>Blood</hi> of one Righteous <hi>Abel,</hi> but eſpe<g ref="char:EOLhyphen"/>cially the <hi>Blood</hi> of many Righteous <hi>Abels</hi>) as cannot poſsibly be <hi>decryed</hi> any other way, but onely by that other <hi>Blood of ſprink<g ref="char:EOLhyphen"/>ling, which ſpeaketh better things then that of Abel,</hi> Heb. 12.24.</p>
+            <pb n="5" facs="tcp:50544:7"/>
+            <p>
+               <hi>Thirdly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">The Cry of the Oppreſſed.</note> God he hears <hi>the cry of the Op<g ref="char:EOLhyphen"/>preſſed</hi> likewiſe: When the children of Iſ<g ref="char:EOLhyphen"/>rael began to <hi>ſigh,</hi> and <hi>groan,</hi> and <hi>cry</hi> unto God, by reaſon of their <hi>Taskmasters,</hi> and thoſe <hi>cruel Oppreſsions</hi> that were upon them, then God ſaid, I <hi>have ſeen, I have ſeen the affliction of my people which is in</hi> Egypt, <hi>and</hi> I <hi>have heard their groaning, and am come down to deliver them,</hi> Act. 7.34. And for the <hi>Oppreſ<g ref="char:EOLhyphen"/>ſion</hi> of the poor, and <hi>ſighing</hi> of the needy,
+<note place="margin">Pſal. 12.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Now will</hi> I <hi>ariſe</hi> (ſaith the Lord) and ſet him in <hi>ſafety</hi> from him that <hi>puffeth</hi> at him: And here in the Chapter <hi>Elihu</hi> tells us, That <hi>the cry of the poor comes unto God;</hi> and ſays he, <hi>He heareth the cry of the afflicted.</hi>
+            </p>
+            <p>
+               <hi>But then farther,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>29</label> ELIHU tells us more<g ref="char:EOLhyphen"/>over in the 29. <hi>v.</hi> of <hi>trouble</hi> and <hi>quietneſs,</hi>
+               <note place="margin">Trouble and quietnes ſome<g ref="char:EOLhyphen"/>times upon a man, &amp; ſome<g ref="char:EOLhyphen"/>times upon a Nation.</note> ſometimes upon a <hi>man,</hi> and ſometimes up<g ref="char:EOLhyphen"/>on a <hi>Nation, Quum ipſe tranquillat, quis in<g ref="char:EOLhyphen"/>quietabit? When he giveth quietneſs, who then can make trouble? and when he hideth his face, who then can behold him? whether it be done againſt a Nation, or against a man onely;</hi> that is, God is ſometimes pleaſed to trouble <hi>Nations,</hi> and particular <hi>perſons,</hi> and ſome<g ref="char:EOLhyphen"/>times to beſtow <hi>peace</hi> and <hi>quietdeſs</hi> upon
+<pb n="6" facs="tcp:50544:8"/>them;
+<note place="margin">Gods end in both, ver. 30. <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> regnet homo hypocrita, Ne ſint ſendiculae <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </note> and his <hi>end</hi> in both is this, at the 30. <hi>v. That the Hypocrite reign not, leſt the peo<g ref="char:EOLhyphen"/>ple be inſnared.</hi> God is more <hi>ſolicitous</hi> and <hi>careful</hi> to prevent the <hi>inſnaring of the people,</hi> then he is about the <hi>Hypocrites reigning:</hi> And he many times <hi>ſuffers</hi> a great deal of <hi>ſorrow,</hi> and <hi>trouble,</hi> and <hi>unquietneſs</hi> to come upon a <hi>Nation,</hi> to come upon a particular <hi>Perſon,</hi> on purpoſe to prevent the <hi>Hypocrites reigning</hi> over a poor inſnared people, or <hi>that the Hypocrite reign not</hi> any longer, leſt the <hi>People</hi> be yet farther <hi>deluded,</hi> and <hi>inſnared</hi> thereby.</p>
+            <p>
+               <hi>But to leave that alſo,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and to come unto the <hi>words</hi> of the Text, which contain the <hi>bleſſed</hi> fruits of <hi>ſanctified</hi> Affliction, when <hi>trouble</hi> or <hi>unquietneſs</hi> hath been upon a <hi>Per<g ref="char:EOLhyphen"/>ſon,</hi> or been upon a <hi>Nation,</hi> what then? <hi>Surely,</hi> then ſays he, <hi>it is meet to be ſaid unto God, I have born chaſtiſement, I will not offend any more:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Speech <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>That which I ſee not, teach thou me,</hi> &amp;c.</p>
+            <p>
+               <hi>In which words</hi> the holy Ghoſt by <hi>Elihu</hi> frames a <hi>speech</hi> for the ſorrowful, or tells afflicted ones what to ſay, when the Chaſtiſements of God have been upon them.</p>
+            <pb n="7" facs="tcp:50544:8"/>
+            <p>And in this <hi>Speech</hi> you have three things eſpecially <hi>conſiderable:</hi>
+               <note place="margin">Three thin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in it.</note>
+            </p>
+            <p>
+               <hi>Firſt,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Here is the <hi>Perſon to be spoken to</hi> in this <hi>Speech,</hi> and that is <hi>God; Surely,</hi> ſays he, <hi>it is meet to be ſaid unto God.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Here is the <hi>time,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> or <hi>the ſeaſon</hi> of <hi>uttering that</hi> which is here <hi>compoſed,</hi> and that is, when the <hi>Chaſtenings</hi> of God have been <hi>upon us,</hi> or <hi>when we have born chastiſement; Surely,</hi> ſays he, <hi>it is meet to be ſaid unto God,</hi> I <hi>have born chastiſement.</hi>
+            </p>
+            <p>
+               <hi>And then thirdly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Here is alſo the <hi>matter</hi> of the Speech, or the <hi>ſubstance</hi> of that which is to be <hi>delivered,</hi> and that contains <hi>two things:</hi>
+               <list>
+                  <item>
+                     <hi>A Prayer for</hi> Inſtruction; and</item>
+                  <item>
+                     <hi>A Promiſe of</hi> Reformation.</item>
+               </list>
+            </p>
+            <p>
+               <hi>A Prayer for</hi> Inſtruction, in thoſe words, <hi>That which</hi> I <hi>ſee not, teach thou me;</hi> and then ſays he, when once thou haſt <hi>effectually</hi> taught and <hi>instructed</hi> me, then <hi>if</hi> I <hi>have done iniquity,</hi> I <hi>will do no more.</hi>
+            </p>
+            <p>The main <hi>Obſervation</hi> that I ſhall <hi>pitch</hi> upon and <hi>propound,</hi> as <hi>containing</hi> the whole <hi>ſum</hi> and <hi>ſubstance</hi> of the TEXT, it will be this:</p>
+            <pb n="8" facs="tcp:50544:9"/>
+            <p>
+               <hi>Elihu</hi> here ſpeaks of a particular <hi>man</hi> ye ſee,
+<note place="margin">Verſe 39.</note> and he ſpeaks likewiſe of a whole <hi>Na<g ref="char:EOLhyphen"/>tion;</hi> From whence obſerve,</p>
+            <q>
+               <hi>That it is the Duty of a Perſon, or a People that have born chaſtiſement,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>and that are newly come out of troubles, to beg Inſtruction from God, as well as to promiſe Reformation.</hi>
+            </q>
+            <p>
+               <hi>This is plain from the Scripture,</hi> which makes <hi>Inſtruction</hi> from God to be the end of <hi>chaſtiſing,</hi> as well as <hi>Reformation,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Nocumenta, documenta, Scholacrucis ſcho<g ref="char:EOLhyphen"/>la Lucis;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> they are <hi>old ſayings,</hi> and very <hi>true ones,</hi> the Scripture in many places does both <hi>expound</hi> and <hi>ratifie</hi> them: <hi>Bleſſed is the man whom thou chaſtenest, O Lord, and teachest out of thy Law,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> ſays the <hi>Pſalmist.</hi>
+            </p>
+            <p>And beſides the TEXT here, ſays <hi>Elihu</hi> moreover,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Job</hi> 36.8, 9, 10. <hi>If</hi> (ſays he there) <hi>they be bound in fetters, and holden in cords of affliction; then he ſheweth them their work, and their tranſgreſsions that they have exceeded: He openeth alſo their ear unto diſcipline, and com<g ref="char:EOLhyphen"/>mandeth that they return from iniquity:</hi> And a little after in the ſame Chapter, at the 15.
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>ver.</hi> of it, <hi>He delivereth the poor in his af<g ref="char:EOLhyphen"/>fliction, and he openeth their ears in oppreſsion:</hi> I
+<pb n="9" facs="tcp:50544:9"/>pray <hi>obſerve,</hi> it is GOD that does all this, and not <hi>Affliction</hi> it ſelf; it is he that <hi>com<g ref="char:EOLhyphen"/>mandeth to return from iniquity,</hi> and it is he that <hi>openeth the ear in oppreſsion,</hi> to attend un<g ref="char:EOLhyphen"/>to that which <hi>formerly</hi> was not heeded.</p>
+            <p>And ſo again, <hi>Iſa.</hi> 26.9.
+<note place="margin">Iſa. 26.</note> 
+               <hi>When thy judge<g ref="char:EOLhyphen"/>ments are in the earth, the inhabitants of the world will learn righteouſneſs:</hi> But how? how ſhall they <hi>learn it,</hi> if <hi>God</hi> do not <hi>teach it?</hi> How ſhall the <hi>inhabitants of the world learn righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> if <hi>God</hi> do not teach them <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs?</hi>
+            </p>
+            <p>It is ſaid of <hi>Noah,</hi>
+               <note place="margin">Noah.</note> that he was <hi>a Preacher of righteouſneſs,</hi> 2 Pet. 2.5. But what were the men of the <hi>old world</hi> the <hi>better</hi> for it? not one jot the <hi>better:</hi> Though men <hi>Preach righteouſneſs</hi> in their <hi>way,</hi> yet if God do not <hi>Preach righteouſneſs</hi> in his <hi>way</hi> alſo; though men <hi>Preach</hi> it to the <hi>ear,</hi> yet if God do not <hi>Preach</hi> it the <hi>heart,</hi> there will be <hi>no reform<g ref="char:EOLhyphen"/>ing,</hi> nor no <hi>redreſsing</hi> of any thing that is amiſs.</p>
+            <p>
+               <hi>But for the handling of the Point;</hi>
+               <note place="margin">Two things inquired, for the explication of the Do<g ref="char:EOLhyphen"/>ctrine.</note> in the farther <hi>proſecution</hi> of it, wee'll <hi>inquire</hi> two <hi>things:</hi>
+            </p>
+            <p n="1">1. What kinde of <hi>teaching</hi> that is,
+<pb n="10" facs="tcp:50544:10"/>which the <hi>Scripture</hi> calls the <hi>Teaching of</hi> GOD.</p>
+            <p n="2">2. Of what <hi>neceſsity</hi> that <hi>teaching</hi> is in the <hi>great</hi> Work, or buſineſs of <hi>Reformation?</hi>
+            </p>
+            <p>
+               <hi>For the former;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> What kinde of <hi>inſtru<g ref="char:EOLhyphen"/>ction,</hi> or what kinde of <hi>teaching</hi> that is, which the <hi>Scripture</hi> calls the <hi>Teaching of God?</hi>
+            </p>
+            <p>To that I ſhall <hi>Anſwer</hi> by theſe particu<g ref="char:EOLhyphen"/>lars following:
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>
+               <hi>Firſt,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> The <hi>teaching of God</hi> it is an inward <hi>Spiritual</hi> kinde of <hi>teaching;</hi> it is that which teaches the <hi>ſoul</hi> and <hi>conſcience</hi> of a man,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> yea, that <hi>pierces, to the dividing aſunder of the ſoul and ſpirit, and of the joynts and marrow,</hi> and is a <hi>diſcerner of the moſt ſecret thoughts, intents and purpoſes of mans heart,</hi> Heb. 4.12.</p>
+            <p>And this is one main <hi>difference</hi> between <hi>mans teaching,</hi> and <hi>Gods teaching;</hi> Man ſpeaks to the <hi>outward ear,</hi> but it is God that muſt <hi>perſwade the heart;</hi> The <hi>heart of</hi> Japhet <hi>to dwell in the tents of</hi> Shem.</p>
+            <p>There is a twofold <hi>knowledge</hi> of <hi>heavenly</hi> things<g ref="char:punc">▪</g> There is a <hi>notional knowledge</hi> of them, and there is an <hi>experimental knowledge</hi> of them.</p>
+            <p>There is a <hi>Carnal</hi> knowledge of <hi>Spiritual</hi>
+               <pb n="11" facs="tcp:50544:10"/>things,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and there is a <hi>Spiritual</hi> knowledge of <hi>Carnal</hi> things; There is an <hi>earthly</hi> know<g ref="char:EOLhyphen"/>ledge of <hi>Heavenly</hi> things, and there is an <hi>Heavenly</hi> knowledge of <hi>earthly</hi> things; There is an <hi>Humane</hi> knowledge of <hi>Divine</hi> things,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> and there is a <hi>Divine</hi> knowledge of <hi>Humane</hi> things: Now the <hi>knowledge</hi> that comes in by the <hi>teaching of God,</hi> it is not a <hi>Notional,</hi> a <hi>Carnal,</hi> an <hi>Earthly,</hi> an <hi>Hu<g ref="char:EOLhyphen"/>mane</hi> kinde of <hi>knowledge,</hi> but it is <hi>Experi<g ref="char:EOLhyphen"/>mental,</hi> and it is <hi>Spiritual,</hi> and it is every way both truly <hi>Divine</hi> and <hi>Heavenly: The wiſ<g ref="char:EOLhyphen"/>dom that comes from above,</hi> ſays the Apoſtle,
+<note place="margin">Iam. 3.15.</note> it is not an <hi>earthly,</hi> it is not a <hi>ſenſual,</hi> it is not a <hi>deviliſh</hi> kinde of <hi>knowledge,</hi> but <hi>pure,</hi> and <hi>peaceable,</hi> and <hi>gentle,</hi> and <hi>eaſie to be en<g ref="char:EOLhyphen"/>treated, full of mercy,</hi> and <hi>good fruits,</hi> without <hi>partiality,</hi> and without <hi>hypocriſie.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The <hi>teaching of God,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Secret. </seg>2</label> it is a <hi>ſecret</hi> my<g ref="char:EOLhyphen"/>ſterious kinde of <hi>teaching,</hi> like <hi>a voyce behinde a man ſecretly</hi> whiſpered into his <hi>ear,</hi>
+               <note place="margin">Iſa. 30.21.</note> and ſay<g ref="char:EOLhyphen"/>ing to him, <hi>This is the way, walk in it:</hi> thence is the effect of it called in Scripture, The <hi>hidden man of the heart,</hi>
+               <note place="margin">1 Pet. 3.4.</note> and the <hi>hidden Man<g ref="char:EOLhyphen"/>nah,</hi> and <hi>A new Name in the white ſtone,</hi>
+               <note place="margin">Rev. 2.17.</note> 
+               <hi>which no man knows, but he that hath received it:</hi> We
+<pb n="12" facs="tcp:50544:11"/>ſpeak the wiſdom of God in a <hi>mystery,</hi> ſays the Apoſtle, even the <hi>hidden wiſdom,</hi> which God ordained before the <hi>world</hi> to our <hi>glory,</hi> which none of the <hi>Princes</hi> of this world <hi>knew;</hi> for had they <hi>known it,</hi> they would not have <hi>crucified</hi> the Lord of <hi>glory,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 4.16.</note> 1 <hi>Cor.</hi> 2.7, 8. And in another place, <hi>Great is the my<g ref="char:EOLhyphen"/>ſtery of godlineſs:</hi> and, Unto you it is given to know the <hi>myſteries of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven,</hi>
+               <note place="margin">Mat. 13.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Pſal. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and not unto others, ſays our <hi>Savior:</hi> and, <hi>The ſecret of the Lord is with them that fear him, and he will ſhew them his covenant.</hi>
+            </p>
+            <p>The truth is,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> haber ſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>am <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> tra Pla<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> tri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ium <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lt hyp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>retum.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſol. Ser. 9.</note> this <hi>teaching</hi> of God it is ſo <hi>great</hi> a <hi>ſecret,</hi> and ſo <hi>high</hi> a <hi>myſtery,</hi> that very few <hi>underſtand</hi> the meaning of it: <hi>The wind bloweth where it liſteth,</hi> ſays our Sa<g ref="char:EOLhyphen"/>vior, <hi>and thou onely heareſt the ſound thereof, but canſt not tell whence it cometh, and whither it goeth;</hi> and <hi>ſo is every one that is born of the Spirit,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8.</note> Joh. 3 8. As a man <hi>ſees</hi> not how the <hi>graſs</hi> ſprings up in the <hi>meadow,</hi> or how the <hi>corn</hi> comes up in the <hi>field,</hi> or how the <hi>bones</hi> do grow in the <hi>womb</hi> of her that is with <hi>childe,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> or how the <hi>ſhadow</hi> creeps along up<g ref="char:EOLhyphen"/>on the <hi>Dyal</hi> of <hi>Ahaz,</hi> even ſo in like maner <hi>grace</hi> comes in upon the <hi>ſoul,</hi> by this <hi>teach<g ref="char:EOLhyphen"/>ing
+<pb n="13" facs="tcp:50544:11"/>of God,</hi> in ſuch <hi>ſecret</hi> inſenſible <hi>paces,</hi> that a man <hi>knows</hi> not how to <hi>reveal,</hi> or diſcover the <hi>exact way</hi> of it unto you, in every <hi>ſtep</hi> or <hi>degreee</hi> thereof. <hi>Mark</hi> 4.26, 27.
+<note place="margin">Mark 4.26, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>So is the Kingdom of God,</hi> ſays Chriſt, <hi>as if a man ſhould cast ſeed into the ground, and ſhould ſleep, and riſe night and day, and the ſeed ſhould spring and grow up, he knows not how, nor which way;</hi>
+               <note place="margin">Acts 22.9. <hi>Comi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c. Pau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vocem <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> quia <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> loqui, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Pa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> quiduam, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Chriſtus; F<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rem <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> Calv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> As it was with thoſe that <hi>journeyed</hi> with <hi>Paul</hi> to <hi>Damaſcus,</hi> They that were with me <hi>ſaw</hi> in<g ref="char:EOLhyphen"/>deed the <hi>light,</hi> ſays he, &amp; were <hi>afraid,</hi> but they <hi>heard</hi> not the <hi>voyce</hi> of him that <hi>spake</hi> to me; there was ſomething <hi>ſecretly</hi> whiſpered in<g ref="char:EOLhyphen"/>to <hi>Pauls ear,</hi> that they underſtood not who were of his <hi>company,</hi> and that ſtood hard by him; and even ſo it is with this <hi>teaching of</hi> GOD, it <hi>ſecretly</hi> puts a <hi>diſtinction</hi> many times, between thoſe that have the ſame <hi>parts,</hi> and <hi>means,</hi> and <hi>time,</hi> and <hi>helps,</hi> even after a <hi>wonderful,</hi> and after an <hi>unſpeakable</hi> maner.
+<label type="milestone">
+                  <seg type="milestoneunit">Gentle. </seg>3</label> 
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The <hi>teaching of</hi> GOD, it is a <hi>meek,</hi>
+               <note place="margin">
+                  <hi>Fluct ut re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eloquium m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> &amp;c. in ani<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ſeill<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t audien<g ref="char:EOLhyphen"/>tiam <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> grati<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> Vat. in loc.</note> a <hi>ſmooth,</hi> a <hi>gentle</hi> kinde of <hi>teaching,</hi> like that of <hi>Moſes, the man of</hi> GOD, <hi>My Doctrine ſhall drop as the rain,</hi> ſays he, <hi>and my ſpeech diſtil as the dew; as the ſmall rain upon the tender herb,
+<pb n="14" facs="tcp:50544:12"/>and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> upon the graſſe,</hi> Deut. 32.2.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the rain comes down from Hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the ſnow, and returns not thi<g ref="char:EOLhyphen"/>ther, but waters the Earth, and makes it bring forth and bud, that it may give ſeed to the ſower, and bread to the eater, <hi>ſo ſhall my word be,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> ſays God, it ſhall not return un<g ref="char:EOLhyphen"/>to me void, but accompliſh that which I pleaſe, and proſper in the thing whereto I ſent it.</p>
+            <p>When God teaches the <hi>heart,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> he then <hi>ap<g ref="char:EOLhyphen"/>pears</hi> to it, as unto <hi>Adam</hi> after he had ſinned, not in the <hi>heat,</hi> but in the <hi>cool of the day;</hi> or as unto <hi>Elijah</hi> in his <hi>Viſion,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Firſt,</hi> there paſ<g ref="char:EOLhyphen"/>ſed by a <hi>great</hi> and a ſtrong <hi>wind,</hi> that <hi>rent</hi> the <hi>Mountains,</hi> and <hi>brake</hi> in pieces the <hi>Rocks</hi> before the Lord; but the <hi>Lord</hi> was not in the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</hi> and after the <hi>wind</hi> there came an <hi>earthquake;</hi> but the <hi>Lord</hi> was not in the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>quake:</hi> and after the <hi>earthquake</hi> a <hi>fire;</hi> but the <hi>Lord</hi> was not in the <hi>fire:</hi> and af<g ref="char:EOLhyphen"/>ter the <hi>fire,</hi> a <hi>ſmall ſtill voyce;</hi> and then God <hi>ſpake,</hi> and ſaid, <hi>What doſt thou here Eli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Thus is the coming of Chriſt, <hi>the great Prophet of his Church,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> punctually <hi>de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> to be, <hi>He ſhall not ſtrive, nor cry,</hi>
+               <pb n="15" facs="tcp:50544:12"/>ſays the TEXT,
+<note place="margin">Summa <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nuper <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> oſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umal<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſum Chri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> adventum q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>para<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> mox <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> jici<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ninum <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tem fore: ut amabilis <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> MA<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> TUDO qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> paſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>neither ſhall any man hear his voyce in the ſtreets; a bruiſed reed ſhall he not break, nor quench ſmoking flax, until he ſend forth judgement unto victory,</hi> Mat. 12.19, 20.</p>
+            <p>And although he had <hi>zeal</hi> and <hi>courage</hi> enough againſt both <hi>ſin</hi> and <hi>ſinners,</hi> a <hi>ſuf<g ref="char:EOLhyphen"/>ficiency,</hi> an <hi>all-ſufficiency,</hi> a <hi>redundancy</hi> of <hi>zeal</hi> and <hi>courage,</hi> yet when he was to <hi>deal</hi> with any <hi>poor</hi> creature about <hi>Spiritual affairs,</hi> a<g ref="char:EOLhyphen"/>bout Soul-matters, his maner was to deal very <hi>gently,</hi> and very <hi>mildely</hi> with them; as with the <hi>woman of Samaria</hi> at the <hi>Well,</hi> and divers <hi>others:</hi> And he does upon this <hi>ground</hi> invite us to come and <hi>learn</hi> of him, to come and be <hi>taught</hi> by him, <hi>Learn of me;</hi> ſays he, <hi>for I am meek, and lowly in heart, and then ye ſhall finde rest unto your ſouls</hi> thereby, <hi>Matth</hi> 11.29.</p>
+            <p>
+               <hi>Fourthly,</hi> The <hi>teaching of</hi> GOD,
+<label type="milestone">
+                  <seg type="milestoneunit">Plain. </seg>5</label> it is a <hi>plain</hi> familiar kinde of <hi>teaching:</hi> Pſal. 27.11. <hi>Teach me thy way, O Lord,</hi> ſays <hi>David</hi> there,
+<note place="margin">Pſal. 27.1.</note> 
+               <hi>and lead me in a plain path,</hi> becauſe of mine enemies: <hi>Sinful</hi> ways are <hi>crooked</hi> ways, full of <hi>Distraction,</hi> and full of <hi>Distortion; As for ſuch as turn aſide to their crooked ways, the Lord ſhall lead them forth with the workers
+<pb n="16" facs="tcp:50544:13"/>of iniquity; but peace ſhall be upon Iſrael,</hi> Pſal. 125.5.</p>
+            <p>On the other ſide, <hi>The ways of the Lord are right,</hi> ſays the Prophet, <hi>and the juſt ſhall walk in them,</hi> though the <hi>tranſgreſſors</hi> fall therein, <hi>Hoſea</hi> 14.9. <hi>The crooked ſhall be made ſtraight, and the rough places plain, and then the glory of the Lord ſhall be revealed, and all fleſh ſhall ſee it together,</hi> Iſa. 40.4, 5. Yea, ſo <hi>plain</hi> and ſo <hi>clear</hi> ſhall the <hi>truths</hi> and <hi>ways</hi> of God be <hi>made,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> that even <hi>he that runs may read them;</hi> and <hi>the wayfaring man (though a fool) yet ſhall he not erre therein.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>It is ſaid of <hi>Iacob,</hi> that he was a plain man, dwelling in Tents; and yet what man ever had more <hi>acquaintance,</hi> or com<g ref="char:EOLhyphen"/>munion,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.</note> or <hi>power</hi> with God, then he?</p>
+            <p>
+               <hi>But here ye muſt underſtand,</hi> That the Scri<g ref="char:EOLhyphen"/>pture in theſe things ſpeaks no <hi>contradi<g ref="char:EOLhyphen"/>ction</hi> to you,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Mari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> in telling you before, that the <hi>Teaching of</hi> GOD <hi>is myſterious,</hi> and here <hi>that it is plain;</hi> for the very ſame <hi>way</hi> of teach<g ref="char:EOLhyphen"/>ing, or the very <hi>ſame thing,</hi> in one kinde and other, may be very <hi>mysterious</hi> unto one, and yet <hi>plain enough</hi> to another: <hi>Proverbs</hi> 8.9. ſayes Wiſdom there, My
+<pb n="17" facs="tcp:50544:13"/>words are all <hi>plain to him that underſtandeth,</hi> and right to <hi>them that finde knowledge:</hi> And ſo in other caſes; when a man <hi>comes</hi> into an <hi>Artificers</hi> ſhop, or a <hi>Tradeſman</hi>'s ſhop,
+<note place="margin">Simile.</note> it is many times a <hi>myſtery</hi> unto him to <hi>con<g ref="char:EOLhyphen"/>ceive</hi> how things ſhould be ſo and ſo <hi>fra<g ref="char:EOLhyphen"/>med,</hi> ſo curiouſly <hi>carved,</hi> &amp;c. But now the <hi>Artificer</hi> himſelf, or the <hi>Tradeſman</hi> himſelf, he <hi>apprehends</hi> no <hi>myſtery</hi> in this or that, as to himſelf, he <hi>knows</hi> well enough how to do it, the things are all <hi>plain enough</hi> to him: And ſo is it with this <hi>teaching of God,</hi> though it be <hi>very dark</hi> and <hi>myſterious</hi> unto ſome, yet it is <hi>plain enough</hi> to others, who are of <hi>diſcerning spirits,</hi> and of a right <hi>underſtanding</hi> in all things.</p>
+            <p>
+               <hi>And although</hi> the Natural <hi>man</hi> be apt to <hi>complain,</hi>
+               <note place="margin">
+                  <hi>Incredibilem tibi narro r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſed veram, neſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſe eſſe caecam. ſubinde Paeda<g ref="char:EOLhyphen"/>gogum ſuum ro<g ref="char:EOLhyphen"/>gat ut migret, ait domum tonc<g ref="char:EOLhyphen"/>broſam eſſe.</hi> Sen. Ep. 50. <hi>Pugnant inter ſe ſapientia Dei. &amp; ſapientia ha<g ref="char:EOLhyphen"/>mana, ſeu pru<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntia carnis quae eſt inimi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </note> as the <hi>blinde woman did</hi> that <hi>Seneca</hi> ſpeaks of, that ſhe was not <hi>blinde,</hi> but that the <hi>houſe</hi> wherein ſhe <hi>dwelt</hi> was <hi>dark:</hi> I <hi>ſay,</hi> though Natural <hi>men</hi> are apt to do ſo, to <hi>com<g ref="char:EOLhyphen"/>plain</hi> of darkneſs <hi>without,</hi> when as all the <hi>darkneſs</hi> is meerly <hi>within:</hi> Yet the truth is, the <hi>teaching of God</hi> in it ſelf is <hi>plain</hi> enough, and <hi>eaſie</hi> enough, to thoſe that are <hi>able</hi> to <hi>underſtand</hi> it; and the reaſon why the Na<g ref="char:EOLhyphen"/>tural
+<pb n="18" facs="tcp:50544:14"/>
+               <hi>man receives not</hi> the <hi>things of the spirit</hi> of God,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> quo quis <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am carnem <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>inus perci<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re poſſit ſapi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iam <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, quae <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> eſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> &amp; cauſa <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> non eſt in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ripturis, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l in hom<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ibu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Zanch. de ſacr. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ript inter <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p mi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llan.</note> it is not becauſe of that <hi>abſtruſeneſs</hi> or <hi>darkneſs</hi> that is in the things themſelves, but becauſe they are <hi>fooliſhneſs unto him;</hi> neither can he <hi>know</hi> them, <hi>meerly upon this ac<g ref="char:EOLhyphen"/>count, becauſe they are to be spiritually diſcerned,</hi> 1 Cor. 2.14. which <hi>spiritual diſcerning</hi> he wants, or elſe <hi>the things themſelves of the spi<g ref="char:EOLhyphen"/>rit of God</hi> would be plain enough unto him. And therefore in this caſe let us be ſure to ſet the <hi>ſaddle</hi> upon the right <hi>horſe, as we ſay;</hi> and <hi>if the light ſhine in darkneſs, and the darkneſs comprehend it not,</hi> let us not lay the fault upon the <hi>light</hi> for not <hi>ſhining,</hi> but rather upon the <hi>darkneſs,</hi> for not being able to <hi>comprehend</hi> it.</p>
+            <p>
+               <hi>Fifthly and laſtly,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Powerful. </seg>5</label> The <hi>teaching of God,</hi> it is <hi>a Powerful</hi> efficacious kinde of <hi>teaching,</hi>
+               <note place="margin">
+                  <hi>Ita docet ut quod quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> di<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>erit, non tan<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am cognoſcondo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ideat ſod ctiam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olendo Appo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ai, Agendo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erficiat, id<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> and colinabiliter at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> inſuperabi<g ref="char:EOLhyphen"/>iater.</hi> Aug. de Grat. Chr. c. 14. de corrept. &amp; Grat. c. 12. &amp; Al<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Paſſim.</note> and ſuch as no man is able finally to <hi>reſiſt,</hi> where <hi>Converſion</hi> is intended; <hi>The weapons of our warfare are not carnal,</hi> ſays the Apoſtle, <hi>but mighty,</hi> How mighty? <hi>mighty through God, to the pulling down of ſtrong holds; caſting down imaginations, and every high thing that ex<g ref="char:EOLhyphen"/>alts it ſelf againſt the knowledge of God, and bringing into captivity every thought to the obe<g ref="char:EOLhyphen"/>dience
+<pb n="19" facs="tcp:50544:14"/>of Chriſt,</hi> 2 Cor. 10, 4, 5. <hi>True it is,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Divina vol <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tas eſt uni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ter e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>cax, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſuperabilu, &amp; neceſſarta in cauſando, non impedibilis, nec fruſirabilis ullo modo.</hi> Th. Bradwardm de cauſa Dei<g ref="char:EOLhyphen"/>lib. 1. cap. 10. <hi>Praeparatio ho<g ref="char:EOLhyphen"/>minis ad grav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>am eſt a Deo ſi<g ref="char:EOLhyphen"/>cut à move<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te, à libero arbitrio ficut à moto, &amp; tunc habet ne<g ref="char:EOLhyphen"/>ceſsitatem ad i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ad quod ordina<g ref="char:EOLhyphen"/>tur à Deo, n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> quidem coactio<g ref="char:EOLhyphen"/>nis, ſed infalli<g ref="char:EOLhyphen"/>bilitatis, quia intentio Dei de<g ref="char:EOLhyphen"/>ficere non pote<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t, unde ſi ex intentione Dei moventis eſt, quod homo cujus cor movet, gratiam conſequatur, in<g ref="char:EOLhyphen"/>fallibiliter gratiam conſequitur.</hi> Aquin. 1.2. Queſt. 112. Art. 3.</p>
+                  <p>
+                     <hi>Efficacia auxilii Praeoperantis gratiae, quâ ratione praevenis ordine cauſalicatis <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>operationem noſtri arbitrii, non eſt ſolum efficacia moralis, ſed etiam phyſica, quae ad modun<g ref="char:EOLhyphen"/>cauſae phyſicae liberum arbitrium praemovet efficaciter ad conſentiendum, vel piè operandum, aut etiam ad perſeverandum uſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in finem.</hi> Didac. Alvar. lib. 9. de Aux. div. Grac. Diſp. 83. num. 15.</p>
+                  <p>
+                     <hi>Gratia Dei Agit in Hominem ad converſionem ejus, homo fibimet in praeſonti ſtatu pia<g ref="char:EOLhyphen"/>cens repugnat, &amp; in contrarium tendit ex propenſione carnis: ſi jam repugnantia haec aequa<g ref="char:EOLhyphen"/>lium prorſus virium ſit, cum exerta gratia virtute, tum nec efficitur converſio, n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ut offici<g ref="char:EOLhyphen"/>atur expectari poteſt: Effectio enim ſemper eſt ab inaequali ſuperante. Si vero gratiae virtus excedat, tum quamvis incompleta reſiſtentia fiat à carne, vincitur tamen à gratia quia fortius Agit.</hi> Ameſ. cor. ad coll. Hag. Art. 4. de converſ.</p>
+                  <p>
+                     <hi>Illud propriè dicitur irrefiſtibile, cui reſiſtere nemo poteſt quamvis vellet, quod in actu volendi locum prorſus non habet: ex bujuſmodi autem operatione Diviná exiſtit neceſsit as effectus, ſed non libertati voluntatis Humanae repugnans, ſed cum ipſa libertate voluntatis optimè conſentiens quod etiam ſuo loco demonſtrabimus.</hi> Twiſs. Praefat. ad Vindit. Grat. pag. 31.</p>
+               </note> that ſo long as <hi>man</hi> hath to <hi>deal</hi> with <hi>man,</hi> in an Ordinance or the like, there may be a <hi>re<g ref="char:EOLhyphen"/>ſisting,</hi> and a <hi>gainſaying,</hi> and a <hi>turning</hi> of the deaf <hi>ear, &amp;c.</hi> But when once God comes to <hi>reveal his own arm</hi> in the Miniſtery of his Word, and to make it the <hi>day of his Power,</hi> and to deal <hi>effectually</hi> with the <hi>heart,</hi> then he <hi>preſently</hi> acts over all thoſe old mi<g ref="char:EOLhyphen"/>racles upon the <hi>ſouls</hi> of people, that Chriſt was wont to work upon the <hi>bodies</hi> of peo<g ref="char:EOLhyphen"/>ple, making the <hi>blinde</hi> to ſee, and the <hi>deaf</hi> to hear, and the <hi>dumb</hi> to ſpeak, and the <hi>lame</hi> to walk, and the <hi>leper</hi> to be clean, and the <hi>dead</hi> to ariſe out of their graves of <hi>ſin,</hi> and
+<pb n="20" facs="tcp:50544:15"/>
+               <hi>live;</hi> and now the <hi>work</hi> goes on both very <hi>ſweetly,</hi> and very <hi>prosperouſly,</hi> and God he now <hi>convinces,</hi> and <hi>converts,</hi> and <hi>ſanctifies,</hi> and <hi>ſaves;</hi> he now <hi>begins,</hi> and carries on, and <hi>perfects</hi> the work of Grace, without any conſiderable <hi>oppoſition</hi> or <hi>gainſaying</hi> from the <hi>Creature.</hi>
+            </p>
+            <p>And thus you ſee what kinde of <hi>teach<g ref="char:EOLhyphen"/>ing</hi> that is, which the <hi>Scripture</hi> calls <hi>The teaching of God.</hi>
+            </p>
+            <p>
+               <hi>Now in the next place,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> we are to <hi>enquire</hi> and <hi>ſee,</hi> of what <hi>neceſsity</hi> theſe Divine <hi>Teachings</hi> or <hi>Instructions</hi> are, in point of <hi>Re<g ref="char:EOLhyphen"/>formation.</hi>
+            </p>
+            <p>I ſhall endeavor to demonſtrate the ne<g ref="char:EOLhyphen"/>ceſsity of <hi>Divine Inſtructions</hi> in point of <hi>Reformation,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e neceſſity <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ine In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tions in point of Re<g ref="char:EOLhyphen"/>formation e<g ref="char:EOLhyphen"/>vinced by five A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>guments</note> by theſe five enſuing <hi>Argu<g ref="char:EOLhyphen"/>ments:</hi>
+            </p>
+            <p>The <hi>First</hi> ſhall be drawn from our own <hi>ignorance,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom our own ignorance a<g ref="char:EOLhyphen"/>bout the work of Reforma<g ref="char:EOLhyphen"/>tion.</note> in and about the great work of <hi>Reformation;</hi> we our ſelves are mightily to <hi>ſeek</hi> in all <hi>affairs</hi> of this nature, and ſuch as know not how to <hi>reform,</hi>
+               <note place="margin">A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tus Deus ſo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſe it igno<g ref="char:EOLhyphen"/>rantiam &amp; to<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ides, &amp; to tam quia mini<g ref="char:EOLhyphen"/>me fallitur, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> minimè</note> unleſs God himſelf teach us to <hi>reform:</hi> when we go about ſuch a <hi>buſineſs,</hi> ſuch a great <hi>work</hi> as this, if God ſhould wholly <hi>deſert,</hi> and <hi>leave</hi>
+               <pb n="21" facs="tcp:50544:15"/>us unto our <hi>ſelves,</hi>
+               <note place="margin">
+                  <hi>clauditur, quia extra ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lumen non qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>rit ut vid<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ipſe onim eſt &amp; qui videt, &amp; unde vide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Bern.</note> we ſhould rather <hi>de<g ref="char:EOLhyphen"/>form</hi> then <hi>reform,</hi> cry up <hi>this,</hi> and pull down <hi>that</hi> which will either <hi>comply,</hi> or not <hi>comply</hi> with our own <hi>ends,</hi> and <hi>intereſts,</hi> and <hi>ayms,</hi> without any reſpect at all unto <hi>God,</hi> and unto his <hi>word</hi> and <hi>glory.</hi>
+            </p>
+            <p>
+               <hi>In this respect therefore,</hi>
+               <note place="margin">
+                  <hi>Nihil eſt al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cutia noſtra quam culpa, qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ad ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cantum. modo l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gem <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> de no <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ction<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> Salvian. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Guborn. D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> lib. 4.</note> even becauſe of our own <hi>ignorance</hi> and <hi>blindeneſs</hi> (which are either <hi>wholly,</hi> or in a great <hi>meaſure</hi> ſtill up<g ref="char:EOLhyphen"/>on us) <hi>whenſoever</hi> we go about to <hi>reform,</hi> we ſhould be ſure to take GOD along with us, and <hi>make him of our counſel,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be often <hi>lifting</hi> our hearts unto him, and ſay<g ref="char:EOLhyphen"/>ing, <hi>Lord,</hi> I am a poor <hi>blinde</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eaure, <hi>The greateſt part of what I know, is but the leaſt part of that which I still remain exceeding ignorant of,</hi> and therefore go along with me in this great <hi>buſineſs,</hi> and <hi>That which I ſee not, teach thou me;</hi> Let me not call <hi>evil good,</hi> or <hi>good evil;</hi> let me not put <hi>darkneſs for light,</hi> or <hi>light for darkneſs;</hi> let me not go about <hi>to ſet up that</hi> which ought to be <hi>pulled down,</hi> or <hi>to pull down that</hi> which ought <hi>to be ſet up;</hi> to <hi>eſtabliſh that</hi> which ought to be <hi>demoliſhed,</hi> or to <hi>demoliſh that</hi> which ought to be <hi>establiſhed (as men in their
+<pb n="22" facs="tcp:50544:16"/>blinde zeal are marvellous apt to do)</hi> but let me manage the <hi>buſineſs,</hi> ſo far as it concerns me, according to thine own <hi>minde,</hi> and ac<g ref="char:EOLhyphen"/>cording to thine own <hi>appointment</hi> in every thing.</p>
+            <p>
+               <hi>Secondly,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> Another <hi>Argument</hi> to prove the neceſsity of <hi>Divine Instructions</hi> in point of <hi>Reformation,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the dan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of erring <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ervan, through hypocriſie and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mulation.</note> may be drawn from the <hi>danger of erring therein,</hi> through <hi>hypocriſie</hi> or <hi>diſsi<g ref="char:EOLhyphen"/>mulation.</hi> There may be a great deal of <hi>hypocriſie</hi> and <hi>deceitfulneſs;</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>pocritarum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aculam non <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Pau<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orum aut nui<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rum.</hi> Aug</note> 
+               <hi>There may be,</hi> did I ſay? Yea, there <hi>must</hi> and <hi>will be</hi> a world of <hi>hypocriſie, falſe-heartedneſs,</hi> and <hi>diſsimula<g ref="char:EOLhyphen"/>tion</hi> in all thoſe <hi>Reformations</hi> that are not <hi>bottomed</hi> upon <hi>Divine Instructions.</hi>
+            </p>
+            <p>For although it be very <hi>ordinary</hi> and <hi>uſual</hi> with men, like <hi>a boy under the rod,</hi> to promiſe great matters, and to ſay that they will do <hi>this</hi> or <hi>that,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m ſi<g ref="char:EOLhyphen"/>mulationum in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lurris tegitur <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>quaſi velis <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dam ob<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nditur uniuſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> natura, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, vul<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> perſaep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> men<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>untur, oratio <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſaepiſſimè.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> quend. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> when the <hi>hand of</hi> GOD lies heavy <hi>upon</hi> them (as who ſo <hi>graceleſs</hi> al<g ref="char:EOLhyphen"/>moſt, that will not have ſome <hi>relentings</hi> up<g ref="char:EOLhyphen"/>on his <hi>ſpirit</hi> at ſuch a time, and <hi>promiſe</hi> to do any thing, in <hi>caſe</hi> that he may but have <hi>eaſe</hi> and <hi>freedom,</hi> and <hi>relaxation</hi> from the burthen that is upon him?) Yea, <hi>but then let me tell you,</hi> That if men be not <hi>taught
+<pb n="23" facs="tcp:50544:16"/>of</hi> GOD, and <hi>instructed</hi> by him with a <hi>strong hand,</hi> as the Prophet ſpeaks, <hi>Iſa.</hi> 8.11. <hi>The Lord,</hi> ſays he, <hi>ſpake thus to me,</hi> and <hi>in<g ref="char:EOLhyphen"/>structed me</hi> with a <hi>strong hand, that I ſhould not walk in the way of this people;</hi> I ſay, That unleſs there be ſuch a <hi>teaching,</hi> and ſuch an <hi>inſtructing</hi> as this <hi>Antecedent,</hi> or going be<g ref="char:EOLhyphen"/>fore; All the <hi>Vows,</hi> and <hi>Promiſes,</hi> and <hi>Cove<g ref="char:EOLhyphen"/>nants</hi> that men make about <hi>Reformation,</hi> They'll all prove but like thoſe green <hi>withs</hi> that <hi>Sampſon</hi> was bound with, which he <hi>preſently</hi> brake aſunder, as ſoon as ever it was ſaid unto him.
+<note place="margin">Iudges 16.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>The Philiſtines are upon thee, Sampſon.</hi>
+            </p>
+            <p>
+               <hi>And therefore in this reſpect alſo,</hi> There is great <hi>reaſon, whenſoever</hi> we go about to <hi>reform,</hi> that we ſhould lie at the feet of God,
+<note place="margin">Simulata ſan<g ref="char:EOLhyphen"/>ctitas eſt dup<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> iniquitas.</note> and humbly <hi>deſire</hi> his advice and counſel, that ſo we may not play <hi>faſt and looſe</hi> with him, that we may not deal <hi>falſly, deceitfully, hypocritically</hi> with him in the <hi>tranſ<g ref="char:EOLhyphen"/>action</hi> of this <hi>great</hi> and moſt <hi>important</hi> bu<g ref="char:EOLhyphen"/>ſineſs.</p>
+            <p>
+               <hi>Thirdly,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label>
+               <note place="margin">From the dan<g ref="char:EOLhyphen"/>ger of erring through cor<g ref="char:EOLhyphen"/>rupt and bad Examples.</note> Another <hi>Argument</hi> may be <hi>drawn</hi> from the <hi>danger of erring through corrupt and bad Examples:</hi> Men are not onely <hi>mavellous
+<pb n="24" facs="tcp:50544:17"/>ignorant</hi> and <hi>hypocritical</hi> in point of <hi>Reforma<g ref="char:EOLhyphen"/>tion,</hi> when God himſelf does not <hi>teach them</hi> aforehand, and <hi>inſtruct them</hi> with a ſtrong hand about it; But they are alſo <hi>marvellous prone</hi> and <hi>apt</hi> (when left unto <hi>themſelves</hi>) to go by <hi>evil Examples,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> and <hi>falſe Paterns,</hi> and not to <hi>reform, according to the Patern from the Mount,</hi> or according to the <hi>minde</hi> of God, but rather according to that which <hi>Men</hi> hold forth unto them, <hi>be it either right or wrong.</hi>
+            </p>
+            <p>As now in that great <hi>Alteration of go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vernment,</hi> which fell out in the days of <hi>Samuel,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> it is worth the <hi>noting,</hi> what the <hi>ground</hi> of that <hi>Alteration</hi> was, 1 <hi>Sam.</hi> 8. from the 4. <hi>v.</hi> &amp;c. it is there ſaid, That <hi>All the Elders of Iſrael,</hi> they ſolemnly gathered themſelves together, and came to <hi>Samuel</hi> at <hi>Ramah,</hi> and they ſaid unto him, <hi>Behold thou art old,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>and thy ſons walk not in thy ways, they are men that turn aſide after lucre, and take bribes, and pervert judgement: Now therefore,</hi> ſay they, <hi>make us a King to judge us like all the Nations:</hi> When <hi>Samuel</hi> heard them ſay ſo, he was mightily <hi>troubled</hi> and <hi>diſpleaſed</hi> at it, and not knovving vvell <hi>what Anſwer to
+<pb n="25" facs="tcp:50544:17"/>give,</hi> he goes and <hi>carries the buſineſs unto God by Prayer; Samuel prayed unto the Lord,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>6</label> ſays the Text, <hi>and the Lord ſaid unto Samuel, Hearken to the voyce of the People, in all that they ſay unto thee; for,</hi> ſays he,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>7</label> 
+               <hi>they have not rejected thee, but they have rejected me, that I ſhould not reign over them.</hi>
+            </p>
+            <p>This was very <hi>ſad</hi> now,
+<note place="margin">
+                  <hi>Nulla re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> majoribus ma<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> implica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, quam quod ad rumo<g ref="char:EOLhyphen"/>rem componi<g ref="char:EOLhyphen"/>mur, optimara ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ea, quae magn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aſſenſu recepta ſunt, quorun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> exempla multa ſunt: nec ad ra<g ref="char:EOLhyphen"/>tionem, ſed ad ſi militudanem <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vimus: Inde iſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tanta coaccr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>tio Aliorum ſupra alios ru<g ref="char:EOLhyphen"/>cutium: &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unuſquiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ma<g ref="char:EOLhyphen"/>vult credere quam <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> nunquam de vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>judicatur, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mper creditur verſat<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> nos &amp; praecipi<g ref="char:EOLhyphen"/>tat traditus per manus error a<g ref="char:EOLhyphen"/>licniſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> perim<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> exemplis, ſana<g ref="char:EOLhyphen"/>bimur fi ſep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re<g ref="char:EOLhyphen"/>mur à cat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Senec. ub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſupra.</note> that a <hi>People</hi> ſhould upon any <hi>pretence</hi> whatſoever <hi>re<g ref="char:EOLhyphen"/>ject</hi> God himſelf from <hi>reigning</hi> over them any longer.</p>
+            <p>But now that which did thus <hi>dange<g ref="char:EOLhyphen"/>rouſly</hi> miſlead them, and that <hi>carried them</hi> quite out of their <hi>way,</hi> it was a corrupt Example that <hi>they took</hi> from other <hi>Nations,</hi> and from other <hi>People, Make us a King to judge us,</hi> ſay they, <hi>like all the Nations;</hi> and hereupon <hi>God himſelf</hi> was ye ſee <hi>rejected</hi> by them.</p>
+            <p>
+               <hi>And ſo in like maner,</hi> when a People have a long time been in a <hi>wrong way,</hi> and do now <hi>ſee it</hi> to be ſo, and have ſome <hi>ſe<g ref="char:EOLhyphen"/>rious</hi> thoughts of <hi>reforming,</hi> and getting into a <hi>better way,</hi> if <hi>God himſelf</hi> go not be<g ref="char:EOLhyphen"/>fore them, and <hi>teach them what they ſee not,</hi> in ſuch a caſe they many times <hi>faſten</hi> up<g ref="char:EOLhyphen"/>on
+<pb n="26" facs="tcp:50544:18"/>ſome corrupt <hi>Example</hi> or other, which utterly <hi>miſleads</hi> them, and <hi>carries them</hi> quite out of their way, and after a little <hi>compaſsing</hi> about, either puts them into their <hi>old way</hi> again, or into one as <hi>bad,</hi> or it may be into a <hi>worſe</hi> then that, which formerly they walked in.</p>
+            <p>
+               <hi>And therefore in this respect alſo,</hi> when<g ref="char:EOLhyphen"/>ſoever a perſon or a people <hi>change</hi> their way, or <hi>alter</hi> their courſe, <hi>it is of neceſsity</hi> that they ſhould <hi>take God</hi> along with them, and ſay, <hi>Lord, at this time especially</hi> leave us not unto <hi>our ſelves,</hi> neither <hi>leave us</hi> to corrupt <hi>Examples;</hi> Let us not now look our <hi>faces</hi> in falſe <hi>glaſſes,</hi> that will <hi>miſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent things</hi> to us; but <hi>That which we ſee not, teach thou us,</hi> and then, <hi>If we have done <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, we ſhall</hi> be ſure to <hi>do it</hi> again <hi>no <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Another <hi>Argument</hi> may be drawn from the <hi>danger of erring through corrupt Principles:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> Men of themſelves are not onely marvellous <hi>ignorant</hi> and <hi>hypo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tical,</hi> and <hi>very apt</hi> to be <hi>ſeduced</hi> and <hi>miſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed</hi> by <hi>corrupt</hi> and <hi>bad Examples,</hi> without <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>truction</hi> from God; but they are alſo
+<pb n="27" facs="tcp:50544:18"/>very <hi>prone</hi> and <hi>ready</hi> to be <hi>ſeduced</hi> and miſ<g ref="char:EOLhyphen"/>led <hi>by corrupt Principles,</hi>
+               <note place="margin">Every <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tempte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſide of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> luſt, and en<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ced. Iam. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 4. <hi>Cauſas <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> illcebri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in cordibus <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> mus, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s noſtra men. n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtra eſt.</hi> Salvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. de Gubern <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lib. 6. <hi>Quid nos <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pimus? <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> extranſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> lum noſtr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n, intra no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> &amp; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> difficulter <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> nimus, qui <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſup. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> either <hi>hatched</hi> or <hi>harboured</hi> in their own <hi>breaſts,</hi> and in their own <hi>boſoms,</hi> and mightily <hi>fomented</hi> there by the <hi>malice</hi> and <hi>ſubtilty</hi> of <hi>Satan,</hi> that old <hi>Impostor.</hi>
+            </p>
+            <p>As now when men have <hi>engaged</hi> themſelves for a <hi>Reformation,</hi> and per<g ref="char:EOLhyphen"/>adventure <hi>Covenanted</hi> for it, you ſhall have <hi>many</hi> that did not this <hi>ſincerely,</hi> or out of <hi>Conſcience,</hi> or as taking <hi>God</hi> along with them, but <hi>meerly</hi> out of <hi>Carnal</hi> and <hi>worldly reſpects,</hi> you ſhall have them to ſtand <hi>liſtening</hi> and <hi>hearkening,</hi> to <hi>know</hi> and <hi>underſtand,</hi> out of what <hi>corner</hi> that will <hi>iſſue,</hi> which may beſt <hi>comply</hi> with their own <hi>Ends,</hi> and <hi>Purpoſes</hi> and <hi>Projects;</hi> and look <hi>what way ſoever it be,</hi> that hath either <hi>moſt Profit</hi> in it, or <hi>moſt eaſe</hi> in it, or <hi>moſt Preferment</hi> in it, There ye ſhall have <hi>the Covetous,</hi> and there ye ſhall have <hi>the Vo<g ref="char:EOLhyphen"/>luptuous,</hi> and there ye ſhall have <hi>the Ambi<g ref="char:EOLhyphen"/>tious,</hi> and there ye ſhall have <hi>the Drunkard</hi> in one <hi>corner,</hi> and there ye ſhall have <hi>the Thief</hi> in another <hi>corner,</hi> and <hi>each other vile perſon,</hi> that hath but <hi>wit enough</hi> to co<g ref="char:EOLhyphen"/>ver
+<pb n="28" facs="tcp:50544:19"/>over his <hi>wickedneſs</hi> with an <hi>outward form of godlineſs;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 5.</note> and this <hi>way</hi> of his now, ye ſhall have him to <hi>cry it up,</hi> as the onely <hi>way of God (even as the Biſhops did the Service-Book)</hi> when as perhaps its nothing in the <hi>earth,</hi> but that which the <hi>Devil</hi> hath meer<g ref="char:EOLhyphen"/>ly driven him into, for the <hi>Advancement</hi> of his own Ends, and for the <hi>Promoting</hi> of his own ſecular Advantages.</p>
+            <p>
+               <hi>And therefore in this reſpect alſo,</hi> what cauſe hath every poor Creature to be <hi>ear<g ref="char:EOLhyphen"/>neſt with</hi> GOD, and to ſay, Let the wic<g ref="char:EOLhyphen"/>ked <hi>fall</hi> into their own <hi>nets,</hi> and <hi>tendicles,</hi> and <hi>pits,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and <hi>ſnares, whileſt that I withal eſcape them:</hi> Bleſſed <hi>Lord,</hi> do not thou <hi>leave me</hi> at any <hi>time</hi> to be <hi>ſeduced</hi> by corrupt <hi>Ex<g ref="char:EOLhyphen"/>amples,</hi> to be <hi>miſled</hi> by any falſe <hi>Principles</hi> of mine <hi>own,</hi> but <hi>That which I ſee not, teach thou me;</hi> and then, <hi>If I have done iniquity, I ſhall do it</hi> again <hi>no more.</hi>
+            </p>
+            <p>
+               <hi>Fifthly and laſtly,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> Another <hi>Argument</hi> to prove the <hi>neceſsity</hi> of <hi>Divine Inſtructions</hi> in point of <hi>Reformation,</hi> may be drawn from <hi>the Difficulty of returning from a bad way of reforming,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the dif<g ref="char:EOLhyphen"/>ficulty of re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing from a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> way of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>g, when <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> upon</note> 
+               <hi>when once we are engaged upon it:</hi> Men are not onely marvellous <hi>ignorant,</hi>
+               <pb n="29" facs="tcp:50544:19"/>and <hi>hypocritical,</hi> and apt to be <hi>miſled</hi> by cor<g ref="char:EOLhyphen"/>rupt <hi>Examples,</hi> and to be <hi>ſeduced</hi> by naughty <hi>Principles,</hi> without <hi>instruction</hi> from God; but when once they are deeply <hi>engaged (with all their own intereſts)</hi> upon a <hi>way</hi> that's never <hi>ſo bad,</hi>
+               <note place="margin">
+                  <hi>Simil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Its good to be cautelous therefore (and not too haſty) in all affairs of this nature. <hi>Diu delibe<g ref="char:EOLhyphen"/>randum quod ſcmel ſtat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en<g ref="char:EOLhyphen"/>dum.</hi> Sen. And in this reſpect great reaſon had th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Honorable Houſes of Parliament to declare, as they have done lately to the whole Kingdom moſt nobly and worthily, <hi>in haec verba,</hi> When we conſider what ſome Mi<g ref="char:EOLhyphen"/>niſters of the Presbyterian judgement, in their Book ſubſcribed <hi>Sme<g ref="char:EOLhyphen"/>ctymnuus,</hi> dedicated to the Parliament 1641, ſay of the Lyturgy then eſtabliſhed by Law, that <hi>it was never eſtabliſhed to be ſo pun<g ref="char:EOLhyphen"/>ctually obſerved, ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igorouſly preſſed, to the caſting out of all that ſcru<g ref="char:EOLhyphen"/>ple it, or any thing in it;</hi> WE HAVE REASON WELL TO CONSIDER WHAT WE PUT THE STAMP OF PUBLIKE AUTHORITY UPON: For if this Uniformi<g ref="char:EOLhyphen"/>ty in the Directory, Church-Government, Confeſſion of Faith, and Catechize, ſhould produce ſuch a rigid Conformity unto them, it is not eaſie to foreſee all the miſchiefs and inconveniences that it would beget; although we may eaſily gueſs they would not be ſmall, by what we have felt in the like kinde. <hi>Declar, of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, concerning the Papers of the Scots Com<g ref="char:EOLhyphen"/>miſſioners,</hi> pag. 59.</note> its an exceeding hard <hi>matter</hi> to get them out of that way: As when a <hi>loaded</hi> Cart is <hi>ſunk,</hi> with all its <hi>weight</hi> into an <hi>hole,</hi> in a rotten boggy <hi>place,</hi> its no eaſie matter to <hi>draw</hi> it out again; <hi>twice that strength</hi> that let it <hi>fall</hi> in, will hardly <hi>fetch</hi> it out: And ſo here, when once <hi>men</hi> are <hi>ſettled</hi> upon that, wherein moſt of their <hi>Religion</hi> lies <hi>(as they themſelves are wont to
+<pb n="30" facs="tcp:50544:20"/>speak)</hi> then what ado to <hi>maintain</hi> and <hi>uphold</hi> that <hi>way?</hi> what <hi>ſiding?</hi> what <hi>complying?</hi> what <hi>daubing with untempered morter?</hi>
+               <note place="margin">Ezek.. 13.10.</note> what <hi>contending</hi> to keep up that <hi>way,</hi> which hath the <hi>Honor</hi> of men <hi>engaged</hi> upon it? though <hi>perhaps</hi> the <hi>Honor</hi> and <hi>glory of God</hi> be quite and clean <hi>expulſed,</hi> and never ſo much as <hi>mentioned</hi> or thought upon in the <hi>buſineſs.</hi>
+            </p>
+            <p>
+               <hi>And therefore in this respect alſo,</hi> what cauſe have we to be <hi>earneſt</hi> with God, <hi>to teach us what we ſee not,</hi> that ſo we may not <hi>ig<g ref="char:EOLhyphen"/>norantly,</hi> or <hi>hypocritically,</hi> or <hi>unadviſedly,</hi> a<g ref="char:EOLhyphen"/>bove all, that we may not <hi>ſtubbornly,</hi> or <hi>frowardly</hi> be <hi>engaged</hi> upon any <hi>way, beſides that,</hi> or <hi>againſt that</hi> which may chiefly ad<g ref="char:EOLhyphen"/>vance <hi>Gods glory,</hi> together with the preſent and everlaſting <hi>welfare</hi> of our own <hi>im<g ref="char:EOLhyphen"/>mortal ſouls.</hi>
+            </p>
+            <p>
+               <hi>And thus much ſhall ſuffice</hi> for the <hi>Expli<g ref="char:EOLhyphen"/>cation,</hi> and <hi>clearing</hi> up of the <hi>Truth</hi> pro<g ref="char:EOLhyphen"/>pounded:
+<note place="margin">Application to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this Na<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> The <hi>Application</hi> follows.</p>
+            <p>And <hi>certainly</hi> this that hath been ſaid, is very <hi>appliable</hi> unto the preſent <hi>condition</hi> of us in this <hi>Nation.</hi>
+            </p>
+            <p>For <hi>First,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> We are a <hi>People</hi> that have
+<pb n="31" facs="tcp:50544:20"/>
+               <hi>born chaſtiſement,</hi> that's <hi>plain,</hi> and evident enough to every <hi>eye</hi> that looks upon us, <hi>to our ſelves and others,</hi> that we have <hi>born chastiſement;</hi>
+               <note place="margin">Iudg. 15.8, 16. <hi>Acervum f<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> unum &amp; alte<g ref="char:EOLhyphen"/>rum ſenſus eſt Samſ. dicere ſe tantam hoſtium ſtragem feciſſe ut magnos eo<g ref="char:EOLhyphen"/>rum cumulos congeſſerit.</hi> P. Mart. in loc.</note> God hath ſmitten us <hi>hip and thigh,</hi> as <hi>Sampſon</hi> ſaid, he hath laid <hi>Heaps up<g ref="char:EOLhyphen"/>on heaps</hi> in divers places, by the <hi>Sword,</hi> and by the <hi>Peſtilence;</hi> He hath drawn a <hi>cloud</hi> as it were over all our <hi>Pleaſant things;</hi> He hath ſmitten every part of this <hi>Body Poli<g ref="char:EOLhyphen"/>tick</hi> of ours, from <hi>top</hi> to <hi>toe,</hi> from <hi>head</hi> to <hi>heel; The whole head is ſick,</hi>
+               <note place="margin">Iſa. 1.5, 6.</note> and the <hi>whole heart is faint,</hi> from the ſole of the <hi>foot,</hi> even unto the <hi>head,</hi> nothing but <hi>wounds,</hi> and <hi>bruiſes,</hi> and <hi>putrifying ſores;</hi> not a <hi>part</hi> free, where there hath not been ſome <hi>ſtroke</hi> or other of <hi>Divine diſ<g ref="char:EOLhyphen"/>pleaſure.</hi>
+            </p>
+            <p>
+               <hi>I do verily believe,</hi> That in the days of our <hi>Forefathers,</hi>
+               <note place="margin">The great day of <hi>England<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> trouble, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which the Saints of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and ſhall be ſaved, one w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or another Jer. 30.7</note> or ſince <hi>England</hi> was a <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> the <hi>Nobility,</hi> the <hi>Gentry,</hi> the <hi>Magiſtracy,</hi> the <hi>Miniſtery,</hi> the whole <hi>Commonalty</hi> of this Kingdom, never ſaw ſuch <hi>another Day,</hi> ſuch another black gloomy <hi>Day,</hi> as this that hath <hi>lately</hi> been upon us; And <hi>there<g ref="char:EOLhyphen"/>fore</hi> it may well be <hi>ſaid</hi> of us, <hi>That we have born chastiſement.</hi>
+            </p>
+            <pb n="32" facs="tcp:50544:21"/>
+            <p>And yet I do not <hi>mention</hi> theſe things neither, to caſt any the leaſt <hi>asperſion</hi> upon the <hi>Proceedings</hi> of the <hi>Almighty;</hi>
+               <note place="margin">
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Quis <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mur mino<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Patimur <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> meremur Quid qucrimur quod durè ag<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> nobiſcum Deus <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> cum D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o durius agi<g ref="char:EOLhyphen"/>mus Exacer<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>amus quippe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cum impurita<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>bus noſtris, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> puniendos <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> trabimus in<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>um.</hi> Salvian. de <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bern Dei, lib. 4.</p>
+                  <p>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Chryſoſtom. Homil.</hi> 7. <hi>ad Pop. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h.</hi>
+                  </p>
+                  <p>
+                     <hi>Si mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i traſcatur Deus, num i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>i ego ſimiliter rediraſcar? Non uti<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d pavebo, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, eniam deprecabor: Ita ſi me Arguat, non redargu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tur à me, ſed <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſuſtifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>abitur: Nec ſi me judicabit, judicabo ego cum, ſed adorabo.</hi> Bernard. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Clem. Alex.</hi>
+                  </p>
+               </note> 
+               <hi>Let my right hand forget her cunning, and my tongue cleave to the roof of my mouth,</hi> before ever I open my lips to any ſuch purpoſe; for our <hi>God</hi> is <hi>Iuſt,</hi> and our <hi>God</hi> is <hi>Righteous,</hi> and <hi>Holy</hi> and <hi>good,</hi> in all that he hath hitherto <hi>brought up<g ref="char:EOLhyphen"/>on us,</hi> and he <hi>hath puniſhed far leſs then our iniquities have deſerved.</hi>
+            </p>
+            <p>We may all ſay as the <hi>Pſalmiſt</hi> does, <hi>Pſal.</hi> 118.18. <hi>The Lord hath chaſtened us very ſore;</hi> and it is of his mercy, <hi>that he hath not quite given us over unto death;</hi> it is of the Lords mercies, <hi>that we are not utterly conſumed,</hi> every one of us, and <hi>becauſe his compaſsions fail not,</hi> Lam. 3.22. <hi>He hath not dealt with us after our ſins, nor rewarded us according to our iniquities,</hi> Pſal. 120.10.</p>
+            <pb n="33" facs="tcp:50544:21"/>
+            <p>
+               <hi>Onely this I ſay,</hi> That <hi>whether</hi> ye look up<g ref="char:EOLhyphen"/>on the <hi>univerſality</hi> of the <hi>viſitation,</hi>
+               <note place="margin">Apparent from the uni<g ref="char:EOLhyphen"/>verſality and impartiality of the late Viſita<g ref="char:EOLhyphen"/>tion, that we have born cha<g ref="char:EOLhyphen"/>ſtiſement.</note> all <hi>ſorts</hi> and <hi>degrees</hi> of <hi>Perſons</hi> having <hi>taſted</hi> of the Cup; or <hi>whether</hi> ye look upon the <hi>impar<g ref="char:EOLhyphen"/>tiality</hi> of it, <hi>God having carried it ſo,</hi> that he hath ſeemed to put no <hi>difference</hi> at all in his outward <hi>Adminiſtrations</hi> between one and another, but <hi>good</hi> and <hi>bad, mean</hi> and <hi>mighty, noble</hi> and <hi>ignoble, high</hi> and <hi>low, rich</hi> and <hi>poor, yong</hi> and <hi>old,</hi> have all felt the <hi>ſmart</hi> of this <hi>heavy</hi> Blow more or leſs, even all the <hi>Land</hi> over: <hi>So that I ſay,</hi> which way <hi>ſoever</hi> we look, under what <hi>notion</hi> or <hi>apprehenſion</hi> ſo<g ref="char:EOLhyphen"/>ever we <hi>conſider</hi> our ſelves, we cannot <hi>chuſe</hi> but <hi>ſay</hi> and <hi>acknowledge,</hi> That <hi>we</hi> are a <hi>Peo<g ref="char:EOLhyphen"/>ple who have born chaſtiſement.</hi>
+            </p>
+            <p>
+               <hi>And not onely ſo,</hi> but <hi>moreover</hi> and <hi>beſides this,</hi> beſides our bearing <hi>chaſtiſement on this maner,</hi>
+               <note place="margin">And promiſed Reformation.</note> we have likewiſe <hi>Promiſed Reforma<g ref="char:EOLhyphen"/>tion;</hi> we have ſaid, That <hi>we will not offend any more;</hi> we have <hi>engaged</hi> our ſelves, <hi>To go one before another in the example,</hi> not of a <hi>verbal,</hi> but <hi>of a real Reformation.</hi>
+            </p>
+            <p>
+               <hi>Yea, but as to this now,</hi> it deſerves to be <hi>ſeriouſly conſidered</hi> even by us all, whether in this we have not been a little too <hi>haſty,</hi>
+               <pb n="34" facs="tcp:50544:22"/>many of us, a little too <hi>prepoſterous;</hi> whe<g ref="char:EOLhyphen"/>ther we had not need to <hi>step back</hi> a little, and <hi>apply</hi> this part of the <hi>Text</hi> unto our ſelves,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orrec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>io <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> quae tollit id, quod dictum eſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pro to, quod <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Idoneum <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, Repo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Voſſ. Par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ator, lib. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> with a kinde of <hi>Epanorthoſis</hi> or cor<g ref="char:EOLhyphen"/>rection, ſaying unto God <hi>(as it is meet we ſhould) Lord, we are a People</hi> that have <hi>born chaſtiſement,</hi> and we have <hi>ſaid</hi> with our <hi>lips,</hi> divers of us, <hi>That we will not offend any more:</hi> Now therefore, <hi>That which we ſee not, teach thou us;</hi> and then indeed, <hi>If we have done iniquity, we ſhall do it again no more.</hi>
+            </p>
+            <p>
+               <hi>I pray,</hi> Let me not be miſtaken in this <hi>that I now ſay,</hi> as <hi>though</hi> I went about to <hi>enervate</hi> or <hi>destroy your Covenant</hi> by it;
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> neceſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry Cautions <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Conſidera<g ref="char:EOLhyphen"/>tions about the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t.</note> for <hi>certainly</hi> this is not to <hi>weaken</hi> or <hi>make void your Covenant,</hi> but to <hi>strengthen and make good your Covenant;</hi> this is not <hi>after Vows to make enquiry,</hi> any farther <hi>then to make enqui<g ref="char:EOLhyphen"/>ry</hi> how to <hi>Pay your Vows:</hi> And let me tell you farther, That if in taking that <hi>Covenant,</hi> you did not meerly <hi>pretend,</hi> but <hi>intend Reformation,</hi> theſe <hi>Divine Inſtructions</hi> that now I am ſpeaking of, are ſo <hi>neceſſary</hi> to the <hi>reaching of that end,</hi> that there is no <hi>poſsibility</hi> of reaching that end, without theſe <hi>Divine Inſtructions.</hi>
+            </p>
+            <pb n="35" facs="tcp:50544:22"/>
+            <p>
+               <hi>It is very certain,</hi> and a moſt ſure <hi>rule, That thoſe Reformations will prove decaying build<g ref="char:EOLhyphen"/>ings, that are not bottomed upon Divine Instru<g ref="char:EOLhyphen"/>ctions:</hi> When men are <hi>ſlight,</hi> and <hi>formal,</hi> and <hi>ſurperficial,</hi> and <hi>overly</hi> in their <hi>Promiſes,</hi> they are commonly ſo in their <hi>performances</hi> too, both unto <hi>God</hi> and <hi>men.</hi>
+            </p>
+            <p>
+               <hi>And doubtleſs</hi> one main cauſe of all our preſent <hi>Fears,</hi> and of all our preſent <hi>Distur<g ref="char:EOLhyphen"/>bances</hi> is this, That <hi>abundance</hi> of People have been more forward to <hi>promiſe Refor<g ref="char:EOLhyphen"/>mation</hi> to God, then to <hi>beg Instruction</hi> from God, <hi>how to make good that Promiſe,</hi> and to do it in ſuch a way, that the <hi>remedy</hi> may not prove far worſe then ever the <hi>diſeaſe</hi> it ſelf was.</p>
+            <p>
+               <hi>Let me ſay</hi> thus much farther, and <hi>hum<g ref="char:EOLhyphen"/>bly</hi> offer it to you, as that which I <hi>conceive</hi> to be very <hi>conſiderable</hi> by you: God him<g ref="char:EOLhyphen"/>ſelf hath <hi>promiſed</hi> (as I ſhall ſhew you by and by) that <hi>All his people ſhall be taught of him;</hi> And if he ſhall <hi>pleaſe</hi> to honor this <hi>Nation</hi> ſo far, as to <hi>bring in,</hi> and <hi>ſet up</hi> that <hi>Teaching of his</hi> amongſt us, that <hi>Spiritual,</hi> that <hi>Secret,</hi> that <hi>Meek,</hi> that <hi>Plain,</hi> that effi<g ref="char:EOLhyphen"/>cacious <hi>Powerful</hi> kinde of Teaching, that
+<pb n="36" facs="tcp:50544:23"/>hath been this day <hi>spoken</hi> of: <hi>if ſo,</hi> then ye may <hi>comfortably</hi> expect to ſee the work of <hi>Reformation prosper;</hi> otherwiſe, <hi>ignorance, hypocriſie, corrupt Examples, carnal Principles, private Engagements,</hi> like the <hi>wind</hi> will carry you away, and <hi>without this teaching of God,</hi> ye will be no more <hi>able</hi> to diſcern the <hi>way of</hi> GOD in point of <hi>Reformation,</hi> then a <hi>blinde</hi> man is <hi>able</hi> to judge of <hi>colours.</hi>
+            </p>
+            <p>
+               <hi>It is a notable paſſage,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ar ab <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mit <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nando <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſiliorum <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>us ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uli, ſcu <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>minum mun<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>norum: &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra hort<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ur <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riam ſtudi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m pla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ndi <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ii <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>auſam pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>em expo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, vid<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eransfor<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>em ſea R<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>ionem, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Auther <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> effecter eſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſanctus.</hi> P<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. in loc.</note> to this <hi>purpoſe,</hi> even that of the <hi>Apostles,</hi> Rom. 12.2. ſays he there, <hi>Be not conformed unto this world,</hi> but be ye <hi>transformed,</hi> by the <hi>renewing</hi> of your minde, that ye may <hi>prove</hi> what is that <hi>good,</hi> that <hi>acceptable,</hi> and <hi>perfect</hi> will of God; <hi>intimating thereby</hi> thus much unto us, That until men are <hi>wholly taken off</hi> from the vain <hi>Customs</hi> and <hi>Traditions</hi> of the world, in <hi>matters of Religion,</hi> and until they are withal effectually <hi>transformed,</hi> by the <hi>renewing of their mindes,</hi> they are no way <hi>able</hi> to make proof of that <hi>good,</hi> and <hi>perfect,</hi> and <hi>accepta<g ref="char:EOLhyphen"/>ble</hi> will of God, whereunto they ought in all things to <hi>conform themſelves.</hi>
+            </p>
+            <p>
+               <hi>And therefore in the next place,</hi> my <hi>Exhorta<g ref="char:EOLhyphen"/>tion</hi> to you is this, As ever ye do <hi>expect, be<g ref="char:EOLhyphen"/>lieve,</hi>
+               <pb n="37" facs="tcp:50544:23"/>or <hi>hope</hi> to ſee the <hi>work of Reformation prosper,</hi> ſo minde this <hi>Teaching of God,</hi>
+               <note place="margin">An Exhorta<g ref="char:EOLhyphen"/>tion to minde theſe Divine Inſtruction.</note> minde theſe <hi>Divine Instructions;</hi> and not onely ſo, but be <hi>ſure</hi> to have ſome <hi>meaſure</hi> of <hi>experi<g ref="char:EOLhyphen"/>mental</hi> acquaintance with them.</p>
+            <p>
+               <hi>To this purpoſe,</hi>
+               <note place="margin">Motives thereunto</note> and by way of <hi>Motive</hi> hereunto, let me here <hi>propound</hi> theſe two <hi>things</hi> unto you:</p>
+            <p>
+               <hi>Firſt of all,</hi> Let this be <hi>conſidered,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Motive. </seg>1</label> That the <hi>Teaching of men</hi> can do you no <hi>good,</hi>
+               <note place="margin">Mens teaching unproſitable without the teaching of God.</note> give you no <hi>relief,</hi> afford you no true <hi>contentment,</hi> yield you no <hi>inward Spiritual nouriſhment</hi> or <hi>refreſhment</hi> at all, without the <hi>Teaching of God.</hi> There is an extreme <hi>emptineſs,</hi> and a meer <hi>vanity</hi> upon all ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of outward <hi>Ordinances</hi> and <hi>Adminiſtrations</hi> whatſoever, unleſs <hi>God himſelf</hi> be pleaſed to come in up<g ref="char:EOLhyphen"/>on the <hi>heart thereby.</hi>
+            </p>
+            <p>
+               <hi>And certainly</hi> this hath been one <hi>great ini<g ref="char:EOLhyphen"/>quity,</hi>
+               <note place="margin">Neglect of Gods teach<g ref="char:EOLhyphen"/>ing, the great ſin of many i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe times.</note> whereby we have much <hi>offended</hi> in theſe <hi>latter times,</hi> that whileſt the <hi>gifts</hi> of men, and the <hi>parts</hi> of men, and the <hi>teach<g ref="char:EOLhyphen"/>ings</hi> of men thereby, have been extremely <hi>cryed up,</hi> and <hi>idolized;</hi> in the <hi>mean time</hi> the <hi>teaching of God,</hi> the <hi>Spiritual,</hi> the <hi>Secret,</hi> the <hi>Meek,</hi> the <hi>Plain,</hi> the <hi>Powerful teaching</hi> of
+<pb n="38" facs="tcp:50544:24"/>God, that hath been too much <hi>neglected</hi> and <hi>diſregarded</hi> by us.</p>
+            <p>And although it be a <hi>ſad</hi> thing to <hi>speak</hi> it, yet is it very <hi>certain,</hi> That even to this very day, we are <hi>generally</hi> either extremely <hi>ignorant</hi> of it, or utter <hi>enemies</hi> to it, or both.</p>
+            <p>
+               <hi>Secondly,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Motive. </seg>2</label> Let us alſo conſider that <hi>Pro<g ref="char:EOLhyphen"/>miſe</hi> of God the Father's in <hi>Chriſt</hi> unto his people, <hi>which I pointed at before;</hi> namely, That <hi>All his people ſhall be taught of him,</hi>
+               <note place="margin">Promiſes to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aught of God.</note> Joh. 6.45. It is written <hi>in the Prophets</hi> (ſays our Savior there) <hi>and they ſhall be All taught of God:</hi> Mark, <hi>not a few of them onely,</hi> but <hi>All taught of</hi> GOD; you may ſee the places in the <hi>Margin</hi> of your greater <hi>Bibles,</hi> where<g ref="char:EOLhyphen"/>unto our Savior alludes in that ſpeech of his, eſpecially that <hi>Iſa.</hi> 54.13. where among other <hi>promiſes</hi> to the <hi>Church,</hi> this is one, <hi>And,</hi> ſays he, <hi>All thy children ſhall be taught of the Lord;</hi> and thereupon, <hi>Great ſhall be the peace of thy children:</hi> And in that other place,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>I will put my Law in their inward parts,</hi> ſays God, <hi>and write it in their hearts;</hi> and they ſhall <hi>no more teach every man his neigh<g ref="char:EOLhyphen"/>bor, and every man his brother, ſaying,</hi> Know
+<pb n="39" facs="tcp:50544:24"/>the Lord: <hi>for they ſhall All know me,</hi>
+               <note place="margin">
+                  <hi>Nunc autem in Evangelio poſt crucem, reſurre<g ref="char:EOLhyphen"/>ctionem, &amp; aſcenſionem, dare ſe pactum, non in tabulis lapideis, ſed in tabulis cordis carnali<g ref="char:EOLhyphen"/>bus pollicetur<g ref="char:punc">▪</g> cum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſcriptum fuerit Domini teſtamcutum in mente credentium, ipſum eſſe eis in Deum, &amp; illos eſſe in Populum: ut nequaquam Ju<g ref="char:EOLhyphen"/>daicos quaerant magiſtros, &amp; traditiones, &amp; mandata hominum, ſed doceantur à spiritu ſancto.</hi> Hieron. in loc.</note> 
+               <hi>from the leaſt unto the greateſt of them, ſaith the Lord:</hi> Having ſuch <hi>Promiſes</hi> as theſe are, we may go and <hi>plead</hi> them by <hi>Faith,</hi> and ſo draw out the <hi>pleaſantneſs,</hi> and the <hi>joy,</hi> and the <hi>ſweetneſs</hi> that is <hi>contained</hi> in ſuch <hi>breaſts of conſolation.</hi>
+            </p>
+            <p>
+               <hi>But here ye will demand,</hi> and ſay, perhaps,
+<label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> How does God <hi>iſſue</hi> forth this <hi>Teaching of his?</hi> How does he <hi>draw</hi> forth and <hi>manifeſt</hi> theſe <hi>Divine Inſtructions</hi> unto <hi>Believers?</hi>
+            </p>
+            <p>I Anſwer,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> There be two <hi>ways</hi> whereby he does it:
+<list>
+                  <item>
+                     <hi>By his Word:</hi> and</item>
+                  <item>
+                     <hi>By his Spirit.</hi>
+                     <note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, <hi>By his Word;</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">By his Word.</note> that's a principal <hi>means</hi> or <hi>inſtrument</hi> whereby be teaches and inſtructs his <hi>people; To the law,</hi>
+               <note place="margin">Iſa. 8.20.</note> 
+               <hi>and to the teſtimony,</hi> ſays the Prophet, <hi>if they speak not according to this word, it is becauſe there is no light in them:</hi> And, <hi>Thy word is a light unto my pathes,</hi> ſays <hi>David,</hi>
+               <note place="margin">Pſal. 119.</note> 
+               <hi>and a lanthorn unto my feet:</hi> And, <hi>We have,</hi> ſays the Apoſtle,
+<note place="margin">2 Pet. 1.19.</note> 
+               <hi>a
+<pb n="40" facs="tcp:50544:25"/>more ſure word of propheſie, whereunto ye do well to take heed, as unto a light that ſhineth in a dark place.</hi>
+            </p>
+            <p>
+               <hi>But here ye must obſerve,</hi>
+               <note place="margin">The Word a light, but not the Fountain of light. Chriſt the true <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight. Iohn 1.9 Mal. 4.2. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 9.5. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d 12.46. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 22.16.</note> That although the <hi>Word</hi> be frequently called <hi>A light</hi> in Scripture, yet is it not <hi>the Fountain of light; Chriſt is the true light,</hi> which lighteth <hi>every man that cometh into the world;</hi> and the Word is but a <hi>means</hi> or <hi>instrument</hi> in his hand, to convey <hi>light</hi> unto us: <hi>It is not the word it ſelf,</hi> in the ordinary <hi>dispenſations</hi> of it, but <hi>Christ by the word,</hi> that illuminates dark <hi>underſtandings,</hi> and opens <hi>blinde eyes,</hi> and <hi>turns people from darkneſs unto light,</hi> and from the <hi>power of Satan unto</hi> GOD.</p>
+            <p>Men may injoy the <hi>outward ſound</hi> of the <hi>Gospel,</hi> and yet never <hi>feel</hi> the <hi>inward power</hi> of it upon their <hi>hearts:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Lord,</hi> ſays the Pro<g ref="char:EOLhyphen"/>phet, <hi>who hath believed our report, and to whom is the arm of the</hi> LORD <hi>revealed?</hi> that is, though there be a <hi>report</hi> made, a <hi>ſound of words</hi> in the ears of <hi>many,</hi> yet <hi>unleſs the arm of the</hi> LORD <hi>be revealed</hi> in the Miniſtery of his <hi>Word,</hi> there will be no <hi>believing,</hi> nor no <hi>repenting,</hi> nor no <hi>convert<g ref="char:EOLhyphen"/>ing</hi> or <hi>turning in</hi> to God thereby.</p>
+            <pb n="41" facs="tcp:50544:25"/>
+            <p>But <hi>Secondly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſpecial <hi>Inſtrument</hi> that God <hi>makes uſe of,</hi>
+               <note place="margin">By his Spirit.</note> for the <hi>teaching</hi> and <hi>inſtruct<g ref="char:EOLhyphen"/>ing</hi> of his people, <hi>is his Spirit; without which</hi> the very <hi>Word</hi> it ſelf is but as a <hi>ſealed Book,</hi>
+               <note place="margin">Iſa. 29.11.</note> or a <hi>dead letter</hi> unto them;
+<note place="margin">2 Cor. 3.6.</note> and by <hi>the means whereof,</hi> he is <hi>pleaſed</hi> to <hi>reveal</hi> and <hi>mani<g ref="char:EOLhyphen"/>fest,</hi> not onely <hi>mean</hi> and <hi>ordinary things,</hi> but the <hi>ſecrets of the Goſpel,</hi> the <hi>myſteries of the Kingdom of Heaven;</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the <hi>deep things of God</hi> are hereby <hi>manifeſted</hi> and made known <hi>to the Saints:</hi> 1 Cor. 2.9, 10. <hi>Eye hath not ſeen, nor ear heard, neither hath entred into the heart of man, the things that God hath prepared for them that love him: But,</hi> ſays he, <hi>God hath revealed them unto us by his spirit; for the spirit</hi>
+               <note n="*" place="margin">
+                  <hi>Scrutatur</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>id eſt, nihil in Deo tam profunde ac pe<g ref="char:EOLhyphen"/>nitus abditum quo non penctret spiritus nemp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quoniam peril<g ref="char:EOLhyphen"/>lum docemur e<g ref="char:EOLhyphen"/>tiam abditiſſi<g ref="char:EOLhyphen"/>ma.</hi> Bez. in loc. <hi>Quia de Deo eſt hic spiritus om<g ref="char:EOLhyphen"/>nia novit Dei: Hic spiritus Dei docuit nos quos ſcit naturaliter non doctos, &amp; docuit nos de myſterio Chriſti, qui non ſolum spiritus Dei eſt, ſed &amp; Chriſti.</hi> Am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roſ. Com in loc.</note> 
+               <hi>ſearcheth all things, yea the deep things of God:</hi> And in the ſame Chapter and following verſe, he tells us yet farther, <hi>That as no man knows the things of a man, ſave the spirit of a man which is in him; even ſo the things of God knows no man, but the ſpirit of God:</hi> Though ye ſhould have <hi>Ten thou<g ref="char:EOLhyphen"/>ſand inſtructers beſides,</hi> as the <hi>Apoſtle ſpeaks</hi> in another caſe, yet all would do you little or no good, <hi>without this in<g ref="char:EOLhyphen"/>ſtructer.</hi>
+            </p>
+            <pb n="42" facs="tcp:50544:26"/>
+            <p>And therefore though the <hi>Epheſians</hi> had as excellent <hi>Preaching</hi> as any that the <hi>world afforded,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Quia animalis homo non perci<g ref="char:EOLhyphen"/>pit ca quae ſunt Spiritue, ſtulti<g ref="char:EOLhyphen"/>sia enim ſunt ci: Spiritualis ve<g ref="char:EOLhyphen"/>rò diſudicat om<g ref="char:EOLhyphen"/>nia: opu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> eſt er<g ref="char:EOLhyphen"/>go Spiritus ſan<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ti illuminatio<g ref="char:EOLhyphen"/>ne, ad invenien<g ref="char:EOLhyphen"/>dum &amp; diju<g ref="char:EOLhyphen"/>dicandum ve<g ref="char:EOLhyphen"/>rum ſcripturae ſenſum: Ita Paulus optat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ccleſiis Spiri<g ref="char:EOLhyphen"/>tum illuminati<g ref="char:EOLhyphen"/>onis, &amp; Pater coeleſtis dabit Spiritum pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en<g ref="char:EOLhyphen"/>tibus.</hi> Chemnit. Examen. Decret. Concil. Trident. de Interpret. ſacr. Script.</p>
+                  <p>
+                     <hi>Ezangelium per humanam ſapientiam capi non poteſt, ſed requirit operationem Spiritue ſancti per quam cordibus noſtris inſinuetur.</hi> Muſcul. loc. com.</p>
+                  <p>
+                     <hi>Ambiguitas igitur vel obſcuritas ſcripturarum, quam cauſantur pontificii, non in<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ringit carundem authoritatem, ſed oſtendit neceſsitatem Spiritus illuminantis, &amp; miniſterii <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>centis, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> exponentis ſcripturas.</hi> Davenant. de Iud. ac norm. fid. cap. 13.</p>
+                  <p>
+                     <hi>Palàm eſt, verbum Dei, Spiritus virtute armatum, corda Piorum trahere ad conſentiendum ſibi, &amp; decretis ſuis.</hi> Id. ibid.</p>
+                  <p>
+                     <hi>Spiritus ſapientiae &amp; revelationis ab officio dicitur, quod vera Agnitione Dei eccleſiam ornat.</hi> Centuriat. Magdeburg, lib. 2. centur. 1. cap. 4.</p>
+                  <p>
+                     <hi>Paulus quaedam citavit ex Arato &amp; Epimenide, ſed affirmo Apoſtolos non propterea ejuſmodi teſtimoniis uſos fuiſſe, ut inde caput aliquod fidei confirmarent, nam ad eam rem ſemper Adhibucrunt expreſſos locos petitos ex ſcriptis Propheticis, coſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Afflatu Spiritus ſancti expoſſuerunt.</hi> Sadeel. de verb. Dei ſcript. adverſ. Hum. trad.</p>
+                  <p>
+                     <hi>Nos nihil hic ſomniamus extra ordinem: ſed id ipſum Agnoſcimus, quod in reliquis Articulis fidei omnibus, nimirum omninò opus eſſe internâ Spiritus ſancti perſuaſione, ut libris ſarris plená fide aſſentiamur.</hi> Chamier. Panſtrat. Cathol. tom. 1. lib. 6. cap. 1. D. <hi>White,</hi> in his way to the true Church, ſect. 8. num. 1, 11. <hi>Reinold.</hi> Confer, with <hi>Hart.</hi> Chap. 2. Diviſ. 2. <hi>Jewel.</hi> Repl. to <hi>Harding,</hi> 15. Art. 11. Diviſ.</p>
+               </note> in <hi>Pauls own Miniſtery,</hi> yet you may ſee how <hi>earneſtly</hi> he <hi>prays</hi> for them, <hi>Epheſ.</hi> 1. <hi>That the</hi> GOD <hi>of our Lord Ieſus Chriſt, and Father of glory, would give unto them the ſpirit of wiſdom and revelation, in the knowledge of him: The eyes of their underſtandings being enlightened thereby, to know what was the hope of their calling, and what the riches of the glory of his inheritance in the Saints, and what the ex<g ref="char:EOLhyphen"/>ceeding greatneſs of his power towards them that belieeve,</hi> &amp;c.</p>
+            <pb n="43" facs="tcp:50544:26"/>
+            <p>
+               <hi>And that it may appear to you,</hi>
+               <note place="margin">How neceſſary the preſence and help of the Spirit is, to bring in theſe Divine Inſtru<g ref="char:EOLhyphen"/>ctions.</note> how neceſ<g ref="char:EOLhyphen"/>ſary the <hi>preſence</hi> and <hi>aſsistance</hi> of the <hi>Spirit</hi> is, to bring in theſe <hi>Divine Inſtructions,</hi> be pleaſed to <hi>obſerve thus much,</hi> That the moſt plain <hi>Fundamental</hi> Truths that are, cannot be <hi>rightly underſtood,</hi> without the <hi>help</hi> and <hi>aſsiſtance</hi> of GOD's Holy Spirit.</p>
+            <p>
+               <hi>To give instance</hi> but in one main <hi>Fundamental</hi> Truth, and that which is in<g ref="char:EOLhyphen"/>deed <hi>the very baſis</hi> or foundation of all Chri<g ref="char:EOLhyphen"/>ſtian Religion, <hi>The Divinity of Ieſus Christ;</hi>
+               <note place="margin">The Divinity of Ieſus Chriſt inſtanced in.</note> 
+               <hi>who is there almoſt</hi> that looks not upon it, <hi>as a most dangerous, yea damnable, Hereſie,</hi>
+               <note place="margin">2 Pet. 2.1.</note> for any <hi>body</hi> to deny the <hi>Deity</hi> of the Son of God, The <hi>Godhead of Jeſus Chriſt?</hi> who is not ready to ſay, <hi>Out upon him,</hi> its not fit <hi>he ſhould live,</hi> that <hi>holds forth</hi> ſuch an horrid <hi>Blaſphemous Opinion</hi> as this?</p>
+            <p>But now I beſeech you <hi>take heed,</hi>
+               <note place="margin">Caution.</note> That whileſt ye <hi>condemn</hi> this <hi>Opinion</hi> in others, and <hi>cry out</hi> upon it <hi>others,</hi> that in the mean time ye be not <hi>deeply guilty</hi> of it <hi>your ſelves.</hi>
+            </p>
+            <p>And that this may appear to be <hi>no need<g ref="char:EOLhyphen"/>leſs Caution,</hi> pray <hi>give me leave to tell you,</hi> That no man <hi>living</hi> is able to aſſert the
+<pb n="44" facs="tcp:50544:27"/>
+               <hi>Divinity of Ieſus Christ</hi> in <hi>heart</hi> and <hi>life,</hi>
+               <note place="margin">No <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> able to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Divinity of Chriſt in heare and life, but by the help of the Spirit. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> Ambroſ.</note> but by the ſpecial <hi>ayd</hi> and <hi>aſsiſtance</hi> of Gods Holy Spirit: <hi>Natural light</hi> will never <hi>re<g ref="char:EOLhyphen"/>veal</hi> thus much unto a <hi>man,</hi> it muſt be the <hi>Spirit of</hi> GOD that muſt teach him <hi>this leſſon,</hi> or elſe he will never be <hi>able</hi> to hold forth the power of this Truth, <hi>That Ieſus Christ is every way the eternal Son of</hi> GOD.</p>
+            <p>
+               <hi>For the clearing of this to you,</hi>
+               <note place="margin">Cleared by <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve places of Scripture.</note> I ſhall onely intreat you <hi>to caſt your eyes</hi> upon <hi>two places of Scripture,</hi> that may, I ſuppoſe, <hi>abun<g ref="char:EOLhyphen"/>dantly ſatisfie you</hi> concerning this <hi>particular.</hi>
+            </p>
+            <p>The firſt place is that <hi>Matth.</hi> 16. from the 13.
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> place <hi>Mat.</hi> 16. from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp;c. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>verſe, &amp;c.</hi> It is there ſaid, That when <hi>Ieſus</hi> came into the <hi>coaſts</hi> of <hi>Ceſarea Philippi,</hi> he asked his <hi>Diſciples</hi> this <hi>queſtion, Whom do men ſay that I the Son of man am?</hi> And they ſaid, Some ſay that thou art <hi>Iohn the Baptiſt,</hi> ſome <hi>Elias,</hi> and others <hi>Jeremias,</hi> or one of the Prophets:
+<note place="margin">Verſe 14.</note> 
+               <hi>Well,</hi> ſays Chriſt, this is the <hi>Opinion</hi> that the world hath of me;
+<note place="margin">Verſe 15.</note> 
+               <hi>But,</hi> ſays he, <hi>whom do you ſay that I am?</hi> you that are my <hi>diſciples</hi> and followers? <hi>Simon Peter anſwered and ſaid,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Confeſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ver 16</note> 
+               <hi>Thou art Chriſt the ſon of the living</hi> GOD: <hi>Mark,</hi> here was <hi>Peters confeſsion</hi> of Chriſt.</p>
+            <pb n="45" facs="tcp:50544:27"/>
+            <p>But then I pray <hi>obſerve withal,</hi>
+               <note place="margin">Our Savior. Reply, v. 1.17.</note> our Sa<g ref="char:EOLhyphen"/>viors <hi>reply</hi> to that <hi>anſwer</hi> of <hi>Peters,</hi> at the 17. <hi>v.</hi> of that Chapter, <hi>Jeſus anſwered and ſaid unto him, Bleſſed art thou Simon Bar-jona; for fleſh and blood hath not revealed it unto thee, but my Father which is in Heaven.</hi>
+            </p>
+            <p>
+               <hi>But why does our bleſſed Lord ſay ſo?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> why does he tell <hi>Peter,</hi> that <hi>fleſh and blood had not revealed it unto him?</hi> why may not <hi>fleſh and blood reveal thus much unto any man almoſt?</hi> As now <hi>ſuppoſe</hi> that one ſhould come to <hi>any man</hi> in this Congregation, or to any man of <hi>underſtanding</hi> within the <hi>compaſs</hi> of this <hi>great City,</hi> and put this <hi>question</hi> to him, <hi>Do not you believe that Ieſus Chriſt is the ſon of the living God?</hi> There is no man <hi>almoſt</hi> but would <hi>anſwer and ſay, Yea, I do believe, that Ieſus Christ is the ſon of the living God.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> 
+            </p>
+            <p>
+               <hi>But let me here tell you,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Quad earo &amp; ſanguis revelare non potuis Spi<g ref="char:EOLhyphen"/>ritus ſancti gra<g ref="char:EOLhyphen"/>tia re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>clatum eſt.</hi> Hieron. com. in Mar.</p>
+                  <p>
+                     <hi>Non ſit ergo mirum, quod in<g ref="char:EOLhyphen"/>telligere divina non valent qui Spiritum Dei non habent.</hi> Fulgent cones, Serm. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſtid. Ar. cap 18.</p>
+               </note> That if nothing elſe but <hi>fleſh and blood</hi> hath <hi>revealed this truth</hi> unto you; if ye have onely learned it <hi>by rote out of a Book;</hi> or if ye have taken it upon truſt, as <hi>it fell from the Miniſters lips;</hi> or if ye have meerly held it forth, in <hi>con<g ref="char:EOLhyphen"/>formity to the customs of the times;</hi> if ye are onely upon ſuch <hi>carnal Principles and Foun<g ref="char:EOLhyphen"/>dations</hi>
+               <pb n="46" facs="tcp:50544:28"/>as theſe are; if the <hi>Spirit of God</hi> did <hi>never deal with you</hi> about it, nor <hi>never in<g ref="char:EOLhyphen"/>ſtruct you with a ſtrong hand</hi> about it, nor <hi>never beam in light,</hi> clearly and diſtinctly, <hi>into your ſouls</hi> about it, and thereby <hi>convince</hi> you of it, ye are not yet in any meaſure ſuf<g ref="char:EOLhyphen"/>ficiently <hi>perſwaded</hi> of this truth, neither do ye rightly <hi>underſtand</hi> the meaning of it: <hi>Fleſh and blood,</hi> ſays Chriſt, hath not <hi>re<g ref="char:EOLhyphen"/>vealed</hi> it unto thee, but <hi>my Father, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Adde to this another like place,</hi> 1 Cor. 12.3. ſays the Apoſtle there,
+<note place="margin">The ſecond place 1 <hi>Cor.</hi> 12.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> explained.</note> 
+               <hi>Thus much I give you to understand, that no man can ſay that Ieſus Christ is the Lord, but by the holy Ghost.</hi>
+            </p>
+            <p>
+               <hi>No man can ſay it:</hi> why? <hi>every man ſays it</hi> almoſt with his <hi>lips,</hi> and with his <hi>tongue; what more ordinary,</hi> then for men to <hi>profeſs,</hi> That <hi>Jeſus</hi> is the Lord, and a <hi>deſire</hi> to come under his <hi>Diſcipline and Government.</hi>
+            </p>
+            <p>But yet though men may make an <hi>out<g ref="char:EOLhyphen"/>ward profeſsion</hi> of theſe things with their <hi>lips,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Memo poreſt ut Dominum &amp; Deum ſeriò ag<g ref="char:EOLhyphen"/>noſcere, niſi per Spiritum ſan<g ref="char:EOLhyphen"/>ctum.</hi> Bez hic</p>
+                  <p>
+                     <hi>Dictum enim ipſum quo ſigni<g ref="char:EOLhyphen"/>ficatur Deminus Jeſus, non adulatione hominum, ſicut &amp; idola dii vocantur, ſed ſpiritus ſancti veritate profu<g ref="char:EOLhyphen"/>ſum eſt, Quicquid enim verum, à quocun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> dicitur, à spiritu ſancto dicitur.</hi> Ambr. com. 1. Ep. ad Cor. Lombard. lib. 1. ſentent. diſt. 46.</p>
+               </note> yet their <hi>hearts,</hi> and <hi>conſciences,</hi> and <hi>spi<g ref="char:EOLhyphen"/>rits,</hi> and <hi>lives,</hi> can never ſtoop to the obe<g ref="char:EOLhyphen"/>dience of Chriſt in all things, without the
+<pb n="47" facs="tcp:50544:28"/>mighty <hi>over-ruling power</hi> and <hi>direction</hi> of the holy Ghoſt.</p>
+            <p>
+               <hi>So that</hi> if ever ye would <hi>know</hi> things to <hi>purpoſe;</hi> if ever ye would <hi>know Chriſt and his Truths,</hi> not <hi>after the fleſh,</hi> or after a <hi>car<g ref="char:EOLhyphen"/>nal</hi> maner, but ſo as ye ought to <hi>know</hi> them, and ſo, as that ye may be the <hi>better</hi> for the <hi>knowledge</hi> of them, <hi>then</hi> do not <hi>meerly rest upon mens teaching,</hi> but be <hi>ſure</hi> of this, That the <hi>Spirit of God</hi> teach you how to <hi>compare spiritual things with spiritual,</hi>
+               <note place="margin">1 Cor. 2.13. 1 Theſſ. 5.21.</note> how to <hi>try all things,</hi> and thereupon to <hi>retain a ſavor</hi> of that which is truly good.</p>
+            <p>Not that I would by this <hi>lead you</hi> beſides the <hi>Scriptures</hi> neither, or <hi>any other Ordinance,</hi>
+               <note place="margin">No denial of the Scriptures here, or of any other Or<g ref="char:EOLhyphen"/>dinance.</note> I have no ſuch <hi>thought,</hi> nor no ſuch <hi>inten<g ref="char:EOLhyphen"/>tion:</hi> But ſtill I ſay, Attend the <hi>motions,</hi> and the <hi>breathings,</hi> and the <hi>teachings</hi> of the Spi<g ref="char:EOLhyphen"/>rit <hi>in the uſe of Ordinances,</hi> and <hi>from the holy Scriptures,</hi> without which they'll all prove but <hi>dead letters,</hi> and <hi>dry things</hi> unto you, and ye will never <hi>understand</hi> the <hi>spi<g ref="char:EOLhyphen"/>ritual ſenſe</hi> of <hi>any thing;</hi> but ſtill be <hi>carnal</hi> in <hi>every thing,</hi> without the <hi>ſpirits ayd</hi> and <hi>aſsistance to you,</hi> and continual <hi>vouchſafe<g ref="char:EOLhyphen"/>ment</hi> of its <hi>preſence</hi> and <hi>co-operation with you.</hi>
+            </p>
+            <pb n="48" facs="tcp:50544:29"/>
+            <p>The truth is, <hi>There is nothing ſpiritual, but that which comes from the ſpirit,</hi>
+               <note place="margin">Nothing Spi<g ref="char:EOLhyphen"/>ritual, but that which comes from the Spi<g ref="char:EOLhyphen"/>rit, as a fruit of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s teaching.</note> as a fruit of its <hi>teaching,</hi> and of its <hi>divine,</hi> and <hi>heavenly</hi> informations: <hi>That which is born of the fleſh, is fleſh,</hi> ſays our Savior, and <hi>That which is born of the ſpirit,</hi>
+               <note place="margin">Iohn 3 6.</note> 
+               <hi>is ſpirit:</hi> As the <hi>Philoſophers</hi> ſay of thoſe things that they call <hi>Homogeneous,</hi>
+               <note place="margin">
+                  <hi>Homogeneum eſt quod conſtat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x partibus idem nomen cum toto habentibus.</hi> Keekerm. Syſtem. log. lib. 1. cap. 22.</note> that each ſmall <hi>portion</hi> thereof retains the <hi>name</hi> of the whole; <hi>Quaelibet pars Aquae eſt Aqua,</hi> every <hi>drop</hi> of <hi>water,</hi> is <hi>water,</hi> and every <hi>ſpark</hi> of <hi>fire,</hi> is <hi>fire;</hi> and ſo, all that comes from the <hi>fleſh,</hi> is <hi>fleſh,</hi> and all that comes from the <hi>ſpirit,</hi> is <hi>ſpirit; All that comes from thence, is ſpirit,</hi> and <hi>All that is ſpirit, comes from thence.</hi>
+            </p>
+            <p>True it is, that in all the <hi>truths of</hi> GOD, and in all the <hi>ways of</hi> GOD, there is ſome<g ref="char:EOLhyphen"/>thing meerly <hi>external,</hi> that belongs not to the <hi>ſubſtance</hi> of the buſineſs, and that <hi>men may teach you;</hi>
+               <note place="margin">How far mans teaching rea<g ref="char:EOLhyphen"/>ches.</note> and truly that's all <hi>they can teach you:</hi> Learned <hi>men,</hi> large parted <hi>men,</hi> brave gifted <hi>men,</hi> they may <hi>teach you to be Protestants,</hi> or <hi>teach you to be Presbyterians,</hi> or <hi>teach you to be Independents;</hi> they may <hi>engage</hi> you upon this <hi>outward Profeſsion,</hi> or upon that <hi>outward Form;</hi> but they
+<pb n="49" facs="tcp:50544:29"/>cannot <hi>teach you to be righteous,</hi> or <hi>teach you to be humble,</hi> or <hi>teach you to be uprighthearted,</hi> or <hi>teach you to be holy,</hi> or <hi>teach you to be faithful with thoſe that are moſt holy:</hi>
+               <note place="margin">Hoſ. 11.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> Nothing in the world can teach you thus much, but only that <hi>Anointing</hi> that <hi>John</hi> ſpeaks of,
+<note place="margin">1 Iohn 2.20 <hi>Haec unctio (<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>quit) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ac<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ut tatelligatis om<g ref="char:EOLhyphen"/>nia, ſcilicet, p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> manire poſſunt adverſus Anti<g ref="char:EOLhyphen"/>chriſtorum Impoſturas.</hi> Heming in loc.</note> which is the <hi>Spirit of truth and holineſs,</hi> purpoſely appointed <hi>to lead us into all truth,</hi> and to make us
+<note n="*" place="margin">
+                  <hi>Quoad partes de praeſenti, licet non quoad Gradus:</hi> By <hi>Pauls Rule,</hi> he is <hi>no Saint</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is not <hi>wholly Sanctified;</hi> he hath <hi>Sanctity in no part,</hi> that is not <hi>Sanctified in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> part.</hi> Dr. <hi>Slater</hi> Somerſet. on 1 Theſſ. 5.23.</note> 
+               <hi>completely holy.</hi>
+            </p>
+            <p>
+               <hi>And therefore in a word,</hi> that ſo I may <hi>con<g ref="char:EOLhyphen"/>clude,</hi>
+               <note place="margin">Take heed o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dealing un<g ref="char:EOLhyphen"/>kindely with the Spirit. <hi>Res delicata eſt Spiritus Domi<g ref="char:EOLhyphen"/>ni.</hi>
+               </note> if ever ye would <hi>know</hi> any thing con<g ref="char:EOLhyphen"/>cerning the <hi>minde of God</hi> in point of <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> Take heed of dealing <hi>unkindely</hi> with the <hi>Spirit,</hi> which is of a very <hi>tender</hi> and <hi>delicate</hi> diſpoſition: Take heed of
+<note place="margin">Acts 7.51. Epheſ. 4.30. Iſa. 63.10. 1 Theſſ. 5.19. Heb 10.29.</note>
+               <list>
+                  <item>
+                     <hi>Reſisting</hi> the Spirit, of</item>
+                  <item>
+                     <hi>Grieving</hi> the Spirit, of</item>
+                  <item>
+                     <hi>Vexing</hi> the Spirit, of</item>
+                  <item>
+                     <hi>Quenching</hi> the Spirit, of</item>
+                  <item>
+                     <hi>Despighting</hi> the Spirit, of the living God: </item>
+               </list> Which laſt (whereunto all the reſt tend) is conceived to be a <hi>branch</hi> of that unpar<g ref="char:EOLhyphen"/>donable ſin againſt the holy Ghoſt.</p>
+            <pb n="50" facs="tcp:50544:30"/>
+            <p>Let the <hi>Word of Chriſt,</hi> and the <hi>Spirit of Chriſt</hi> dwell in you <hi>richly;</hi>
+               <note place="margin">Col. 3 16. Tit. 3.6.</note> the <hi>wholeſom in<g ref="char:EOLhyphen"/>ſtructions</hi> of the one, and the <hi>ſweet ſugge<g ref="char:EOLhyphen"/>ſtions</hi> of the other; the <hi>grave counſels</hi> of the one, and the <hi>gentle perſwaſions</hi> of the other; let them be dearer to you <hi>then thouſands of gold and ſilver,</hi>
+               <note place="margin">Mal. 119.72.</note> yea then All the world beſides.</p>
+            <p>
+               <hi>To this purpoſe,</hi> be pleaſed to conſider but this <hi>one thing</hi> more, and I have done: It is certainly very <hi>obſervable</hi> by us, That albeit amongſt <hi>men,</hi>
+               <note place="margin">
+                  <p>Several Par<g ref="char:EOLhyphen"/>ties, ſeveral Spirits, ſeveral Myſteries a<g ref="char:EOLhyphen"/>mong men.</p>
+                  <p>But the Scri<g ref="char:EOLhyphen"/>pture, that takes notice of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> more but Two Parties, two Spirits, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> myſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ies. Mat. 12 30. Rom, 8 9. 1 John 4.3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Theſſ. 2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Tim. 3 16.</p>
+               </note> and among <hi>your ſelves</hi> here, you have I know not how many ſeveral <hi>Parties,</hi> and <hi>Spirits,</hi> and <hi>Mysteries, moving,</hi> and <hi>working,</hi> and <hi>stirring</hi> up and down per<g ref="char:EOLhyphen"/>petually; yet the <hi>Book of</hi> GOD, and eſpe<g ref="char:EOLhyphen"/>cially the <hi>New Testament,</hi> that takes notice but of <hi>two Parties,</hi> and <hi>two Spirits,</hi> and <hi>two Mysteries; He that is not with me, is againſt me,</hi> ſays our Savior, and <hi>he that gathereth not with me, ſcattereth abroad:</hi> So that in all the <hi>world,</hi> there is but <hi>a Chriſtian,</hi> and <hi>an Antichriſtian Party;</hi> the <hi>Spirit of Chriſt,</hi> and the <hi>Spirit of Antichrist;</hi> the <hi>Myſtery of iniquity,</hi> and the <hi>Myſtery of godlineſs:</hi> no more.</p>
+            <p>
+               <hi>And let me tell you further,</hi> That each of
+<pb n="49" facs="tcp:50544:30"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="50" facs="tcp:50544:31"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="51" facs="tcp:50544:31"/>theſe <hi>Parties,</hi> and <hi>Spirits,</hi> and <hi>Mysteries,</hi> they do now <hi>work</hi> at this very day, both very <hi>ſecretly,</hi> and very <hi>ſtrongly;</hi> very <hi>curiouſly</hi> on the one ſide, and very <hi>craftily</hi> on the other ſide: In which <hi>respect,</hi> it is very <hi>eaſie to be deceived</hi> in theſe times, and ſomewhat a difficult buſineſs <hi>not to be deceived:</hi>
+               <note place="margin">Hag. 1.7. Prov. 4.26. 2 Iohn 8.</note> And therefore <hi>conſider your ways,</hi> and <hi>ponder the pathes of your feet,</hi> and look to your ſelves, <hi>Re<g ref="char:EOLhyphen"/>member the watchword,</hi> and <hi>him</hi> that gave it,
+<note place="margin">Rev. 16.15. <hi>Bono animo ju<g ref="char:EOLhyphen"/>bet eſſe Chriſtu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> promittco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſc venturum tan<g ref="char:EOLhyphen"/>quam furcm ex improviſo, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ul<g ref="char:EOLhyphen"/>turum Hoſtes, &amp; vindicatu<g ref="char:EOLhyphen"/>rum cecleſiam prater omnem expectationem.</hi> Brightman in loc.</note> 
+               <hi>[Behold, I come as a thief; bleſſed is he that watcheth, and keepeth his garments, leſt he walk naked, and they ſee his ſhame.]</hi> There is a great deal of <hi>unſavory ſalt upon the dunghil</hi> already, and in all <hi>likelihood</hi> there will be more, ere long.</p>
+            <p>If ye would have God to <hi>teach</hi> you bet<g ref="char:EOLhyphen"/>ter, and to reveal <hi>the truth to you,</hi>
+               <note place="margin">Epheſ. 5.21.</note> 
+               <hi>as it is in Ieſus,</hi> by his <hi>Word</hi> and <hi>Spirit,</hi> then take heed of <hi>Pride,</hi> and take heed of <hi>Paſsion;</hi>
+               <note place="margin">Iames 4.6.</note> for <hi>God reſiſteth the proud, and giveth grace to none but to the humble;</hi> and, <hi>The meek he will guide in judgement,</hi>
+               <note place="margin">Pſal. 25.9, 14.</note> 
+               <hi>and the meek he will teach his way: The ſecret of the Lord is with
+<pb n="52" facs="tcp:50544:32"/>them that fear him, and he will ſhew them his Covenant:</hi> Lye at his feet therefore <hi>meekly</hi> and <hi>humbly,</hi> and be often <hi>ſaying</hi> to him, <hi>That which I ſee not, teach thou me,</hi> that ha<g ref="char:EOLhyphen"/>ving <hi>done iniquity, I may do it</hi> again <hi>no more.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb n="51" facs="tcp:50544:32"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="52" facs="tcp:50544:33"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:50544:33"/>
+         </div>
+      </body>
+   </text>
+</TEI>
